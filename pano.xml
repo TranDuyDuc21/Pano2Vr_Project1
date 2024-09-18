@@ -1,121 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="20938" start="node1" hassounds="1" appversion="7.1.4">
+<tour start="node1" hassounds="1" appversion="7.1.4" apprev="20938">
   <panorama id="node1">
-    <input width="256" height="256" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" levelingroll="0" overlap="1">
-      <level predecode="1" width="256" preload="1" height="256"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="256" leveltilesize="510" overlap="1" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" width="256" levelingroll="0">
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start pan="27.3814" projection="4" fov="106.433" tilt="0"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+      <start tilt="0" fov="106.433" projection="4" pan="27.3814"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
     </view>
-    <userdata title="Tượng Bảo Tàng " datetime="" longitude="105.78319073" info="" customnodeid="" copyright="" author="" tags="tour_builder_project" heading="0" nodeid="node1" source="" description="Bức tượng Mozart ở Vienna, Áo, là một biểu tượng nổi bật tôn vinh nhà soạn nhạc thiên tài người Áo Wolfgang Amadeus Mozart. Được đặt tại Công viên Burggarten, gần Cung điện Hofburg, bức tượng này đã trở thành điểm đến thu hút du khách yêu âm nhạc cổ điển từ khắp nơi trên thế giới. Tượng mô tả Mozart đứng trong tư thế tự tin, với đôi tay cầm gậy chỉ huy và bản nhạc, thể hiện sự cống hiến của ông đối với nghệ thuật âm nhạc. " comment="" latitude="21.00299189"/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label width="180" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" backgroundalpha="1" wordwrap="1" border="1" borderalpha="1" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot title="Tượng Bảo Tàng " pan="-333.01" url="media/B1.pdf" description="" skinid="ht_pdf" tilt="4.02" target="" id="Tượng Bảo Tàng "/>
-      <hotspot title="Sân Bảo Tàng " url="{node2}" target="" skinid="ht_node" tilt="-9.69" pan="-349.36" distance="881.178" description="" id="Point01"/>
+    <userdata nodeid="node1" author="" latitude="21.00299189" datetime="" info="" source="" longitude="105.78319073" comment="" description="Bức tượng Mozart ở Vienna, Áo, là một biểu tượng nổi bật tôn vinh nhà soạn nhạc thiên tài người Áo Wolfgang Amadeus Mozart. Được đặt tại Công viên Burggarten, gần Cung điện Hofburg, bức tượng này đã trở thành điểm đến thu hút du khách yêu âm nhạc cổ điển từ khắp nơi trên thế giới. Tượng mô tả Mozart đứng trong tư thế tự tin, với đôi tay cầm gậy chỉ huy và bản nhạc, thể hiện sự cống hiến của ông đối với nghệ thuật âm nhạc. " customnodeid="" tags="tour_builder_project" heading="0" title="Tượng Bảo Tàng " copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" height="20" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" background="1" border="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_pdf" description="" tilt="4.02" id="Tượng Bảo Tàng " title="Tượng Bảo Tàng " url="media/B1.pdf" pan="-333.01" target=""/>
+      <hotspot distance="881.178" pan="-349.36" skinid="ht_node" description="" tilt="-9.69" id="Point01" title="Sân Bảo Tàng " url="{node2}" target=""/>
     </hotspots>
     <media>
-      <sound mode="0" tilt="-1.000" tiltsize="10.000" nodechangekeep="1" loop="1" field="90.000" pan="-1.000" pansize="10.000" ambientlevel="0.000" level="1.000" id="_background" startmutedmobile="0">
-        <source url="media/VayGiu-VuongTinhVanKhongMap-6952041.mp3" mono="0"/>
+      <sound loop="1" level="1.000" field="90.000" pan="-1.000" tilt="-1.000" mode="0" id="_background" pansize="10.000" nodechangekeep="1" ambientlevel="0.000" tiltsize="10.000" startmutedmobile="0">
+        <source mono="0" url="media/VayGiu-VuongTinhVanKhongMap-6952041.mp3"/>
       </sound>
     </media>
-    <transition type="crossdissolve" zoomafterinfov="140" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" softedge="0" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" delay="none" zoomin="0"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control invertcontrol="1" lockedmouse="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" rubberband="0" contextprojections="0" lockedwheel="0" contextfullscreen="1"/>
+    <transition zoomafterinfov="140" delay="none" enabled="1" type="crossdissolve" blendtime="1" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" hideabout="0" sensitivity="8" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" speedwheel="1" invertwheel="0"/>
   </panorama>
   <panorama id="node2">
-    <input width="256" height="256" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" levelingroll="0" overlap="1">
-      <level predecode="1" width="256" preload="1" height="256"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="256" leveltilesize="510" overlap="1" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" width="256" levelingroll="0">
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start pan="142.248" projection="4" fov="144.499" tilt="0"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+      <start tilt="0" fov="144.499" projection="4" pan="142.248"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
     </view>
-    <userdata title="Sân Bảo Tàng " datetime="" longitude="105.79113007" info="" customnodeid="" copyright="" author="" tags="tour_builder_project" heading="0" nodeid="node2" source="" description="Sân bảo tàng thường là không gian mở nằm bên trong hoặc trước các khu bảo tàng, được thiết kế để tạo cảm giác chào đón và thoải mái cho du khách trước khi bước vào khám phá bên trong. Đây là nơi mọi người có thể dừng chân, thư giãn, hoặc chiêm ngưỡng kiến trúc độc đáo của bảo tàng. Sân bảo tàng thường được trang trí với tượng điêu khắc, tác phẩm nghệ thuật hoặc các yếu tố kiến trúc mang tính biểu tượng, góp phần làm tăng thêm giá trị văn hóa cho không gian chung." comment="" latitude="21.00579635"/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label width="180" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" backgroundalpha="1" wordwrap="1" border="1" borderalpha="1" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot title="" pan="-213.18" url="media/B2.pdf" description="" skinid="ht_pdf" tilt="11.04" target="" id="Point01"/>
-      <hotspot title="Tượng Bảo Tàng " url="{node1}" target="" skinid="ht_node" tilt="-2.84" pan="-199.74" distance="881.178" description="" id="Point02"/>
-      <hotspot title="Nhà Bảo Tàng " url="{node3}" target="" skinid="ht_node" tilt="-2.33" pan="-227.52" distance="1014.34" description="" id="Point03"/>
+    <userdata nodeid="node2" author="" latitude="21.00579635" datetime="" info="" source="" longitude="105.79113007" comment="" description="Sân bảo tàng thường là không gian mở nằm bên trong hoặc trước các khu bảo tàng, được thiết kế để tạo cảm giác chào đón và thoải mái cho du khách trước khi bước vào khám phá bên trong. Đây là nơi mọi người có thể dừng chân, thư giãn, hoặc chiêm ngưỡng kiến trúc độc đáo của bảo tàng. Sân bảo tàng thường được trang trí với tượng điêu khắc, tác phẩm nghệ thuật hoặc các yếu tố kiến trúc mang tính biểu tượng, góp phần làm tăng thêm giá trị văn hóa cho không gian chung." customnodeid="" tags="tour_builder_project" heading="0" title="Sân Bảo Tàng " copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" height="20" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" background="1" border="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_pdf" description="" tilt="11.04" id="Point01" title="" url="media/B2.pdf" pan="-213.18" target=""/>
+      <hotspot distance="881.178" pan="-199.74" skinid="ht_node" description="" tilt="-2.84" id="Point02" title="Tượng Bảo Tàng " url="{node1}" target=""/>
+      <hotspot distance="1014.34" pan="-227.52" skinid="ht_node" description="" tilt="-2.33" id="Point03" title="Nhà Bảo Tàng " url="{node3}" target=""/>
     </hotspots>
     <media>
-      <sound mode="0" tilt="-1.000" tiltsize="10.000" nodechangekeep="1" loop="1" field="90.000" pan="-1.000" pansize="10.000" ambientlevel="0.000" level="1.000" id="_background" startmutedmobile="0">
-        <source url="media/VayGiu-VuongTinhVanKhongMap-6952041.mp3" mono="0"/>
+      <sound loop="1" level="1.000" field="90.000" pan="-1.000" tilt="-1.000" mode="0" id="_background" pansize="10.000" nodechangekeep="1" ambientlevel="0.000" tiltsize="10.000" startmutedmobile="0">
+        <source mono="0" url="media/VayGiu-VuongTinhVanKhongMap-6952041.mp3"/>
       </sound>
     </media>
-    <transition type="crossdissolve" zoomafterinfov="140" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" softedge="0" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" delay="none" zoomin="0"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control invertcontrol="1" lockedmouse="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" rubberband="0" contextprojections="0" lockedwheel="0" contextfullscreen="1"/>
+    <transition zoomafterinfov="140" delay="none" enabled="1" type="crossdissolve" blendtime="1" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" hideabout="0" sensitivity="8" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" speedwheel="1" invertwheel="0"/>
   </panorama>
   <panorama id="node3">
-    <input width="256" height="256" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" levelingroll="0" overlap="1">
-      <level predecode="1" width="256" preload="1" height="256"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="256" leveltilesize="510" overlap="1" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" width="256" levelingroll="0">
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start pan="0.45291" projection="4" fov="144.499" tilt="0"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+      <start tilt="0" fov="144.499" projection="4" pan="0.45291"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
     </view>
-    <userdata title="Nhà Bảo Tàng " datetime="" longitude="105.78155994" info="" customnodeid="" copyright="" author="" tags="tour_builder_project" heading="0" nodeid="node3" source="" description="Nhà bảo tàng là một tổ chức văn hóa quan trọng, nơi lưu giữ, bảo quản và trưng bày các hiện vật, tác phẩm nghệ thuật, và tài liệu lịch sử có giá trị về mặt văn hóa, khoa học, hoặc nghệ thuật. Mục đích chính của nhà bảo tàng là giáo dục, truyền cảm hứng và tạo điều kiện cho công chúng hiểu biết sâu sắc hơn về lịch sử, văn hóa và những di sản của nhân loại. Bên trong nhà bảo tàng, các hiện vật thường được phân loại theo các chủ đề cụ thể, như lịch sử, khoa học, nghệ thuật, hoặc thiên nhiên, giúp du khách dễ dàng khám phá và học hỏi." comment="" latitude="21.00763925"/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label width="180" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" backgroundalpha="1" wordwrap="1" border="1" borderalpha="1" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot title="" pan="-355.05" url="media/B3.pdf" description="" skinid="ht_pdf" tilt="26.74" target="" id="Point01"/>
-      <hotspot title="Sân Bảo Tàng " url="{node2}" target="" skinid="ht_node" tilt="3.78" pan="-334.81" distance="1014.34" description="" id="Point02"/>
-      <hotspot title="Cổng Bảo Tàng " url="{node4}" target="" skinid="ht_node" tilt="3.02" pan="-14.79" distance="656.677" description="" id="Point03"/>
+    <userdata nodeid="node3" author="" latitude="21.00763925" datetime="" info="" source="" longitude="105.78155994" comment="" description="Nhà bảo tàng là một tổ chức văn hóa quan trọng, nơi lưu giữ, bảo quản và trưng bày các hiện vật, tác phẩm nghệ thuật, và tài liệu lịch sử có giá trị về mặt văn hóa, khoa học, hoặc nghệ thuật. Mục đích chính của nhà bảo tàng là giáo dục, truyền cảm hứng và tạo điều kiện cho công chúng hiểu biết sâu sắc hơn về lịch sử, văn hóa và những di sản của nhân loại. Bên trong nhà bảo tàng, các hiện vật thường được phân loại theo các chủ đề cụ thể, như lịch sử, khoa học, nghệ thuật, hoặc thiên nhiên, giúp du khách dễ dàng khám phá và học hỏi." customnodeid="" tags="tour_builder_project" heading="0" title="Nhà Bảo Tàng " copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" height="20" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" background="1" border="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_pdf" description="" tilt="26.74" id="Point01" title="" url="media/B3.pdf" pan="-355.05" target=""/>
+      <hotspot distance="1014.34" pan="-334.81" skinid="ht_node" description="" tilt="3.78" id="Point02" title="Sân Bảo Tàng " url="{node2}" target=""/>
+      <hotspot distance="656.677" pan="-14.79" skinid="ht_node" description="" tilt="3.02" id="Point03" title="Cổng Bảo Tàng " url="{node4}" target=""/>
     </hotspots>
     <media>
-      <sound mode="0" tilt="-1.000" tiltsize="10.000" nodechangekeep="1" loop="1" field="90.000" pan="-1.000" pansize="10.000" ambientlevel="0.000" level="1.000" id="_background" startmutedmobile="0">
-        <source url="media/VayGiu-VuongTinhVanKhongMap-6952041.mp3" mono="0"/>
+      <sound loop="1" level="1.000" field="90.000" pan="-1.000" tilt="-1.000" mode="0" id="_background" pansize="10.000" nodechangekeep="1" ambientlevel="0.000" tiltsize="10.000" startmutedmobile="0">
+        <source mono="0" url="media/VayGiu-VuongTinhVanKhongMap-6952041.mp3"/>
       </sound>
     </media>
-    <transition type="crossdissolve" zoomafterinfov="140" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" softedge="0" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" delay="none" zoomin="0"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control invertcontrol="1" lockedmouse="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" rubberband="0" contextprojections="0" lockedwheel="0" contextfullscreen="1"/>
+    <transition zoomafterinfov="140" delay="none" enabled="1" type="crossdissolve" blendtime="1" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" hideabout="0" sensitivity="8" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" speedwheel="1" invertwheel="0"/>
   </panorama>
   <panorama id="node4">
-    <input width="256" height="256" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" levelingroll="0" overlap="1">
-      <level predecode="1" width="256" preload="1" height="256"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="256" leveltilesize="510" overlap="1" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" width="256" levelingroll="0">
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start pan="52.3254" projection="4" fov="144.499" tilt="0"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+      <start tilt="0" fov="144.499" projection="4" pan="52.3254"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" fovfisheye="360" pan="360"/>
     </view>
-    <userdata title="Cổng Bảo Tàng " datetime="" longitude="105.78666687" info="" customnodeid="" copyright="" author="" tags="tour_builder_project" heading="0" nodeid="node4" source="" description="&#xa;Cổng bảo tàng thường là điểm đầu tiên du khách tiếp cận khi bước vào khám phá không gian văn hóa đặc biệt này. Nó không chỉ đóng vai trò là lối vào mà còn thể hiện nét kiến trúc độc đáo và đặc trưng của bảo tàng. Nhiều cổng bảo tàng được thiết kế hoành tráng và ấn tượng, với những chi tiết trang trí mang tính biểu tượng, nhằm tạo cảm giác chào đón và khơi gợi sự tò mò cho khách tham quan." comment="" latitude="21.01112468"/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label width="180" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" backgroundalpha="1" wordwrap="1" border="1" borderalpha="1" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot title="" pan="-310.21" url="media/B3 1.pdf" description="" skinid="ht_pdf" tilt="26.7" target="" id="Point01"/>
-      <hotspot title="Nhà Bảo Tàng " url="{node3}" target="" skinid="ht_node" tilt="-1.07" pan="-279.78" distance="656.677" description="" id="Point02"/>
-      <hotspot title="Tượng Bảo Tàng " url="{node1}" target="" skinid="ht_node" tilt="-2.45" pan="-346.11" distance="973.657" description="" id="Point03"/>
+    <userdata nodeid="node4" author="" latitude="21.01112468" datetime="" info="" source="" longitude="105.78666687" comment="" description="&#xa;Cổng bảo tàng thường là điểm đầu tiên du khách tiếp cận khi bước vào khám phá không gian văn hóa đặc biệt này. Nó không chỉ đóng vai trò là lối vào mà còn thể hiện nét kiến trúc độc đáo và đặc trưng của bảo tàng. Nhiều cổng bảo tàng được thiết kế hoành tráng và ấn tượng, với những chi tiết trang trí mang tính biểu tượng, nhằm tạo cảm giác chào đón và khơi gợi sự tò mò cho khách tham quan." customnodeid="" tags="tour_builder_project" heading="0" title="Cổng Bảo Tàng " copyright=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" height="20" bordercolor="0x000000" borderalpha="1" enabled="1" textcolor="0x000000" background="1" border="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_pdf" description="" tilt="26.7" id="Point01" title="" url="media/B3 1.pdf" pan="-310.21" target=""/>
+      <hotspot distance="656.677" pan="-279.78" skinid="ht_node" description="" tilt="-1.07" id="Point02" title="Nhà Bảo Tàng " url="{node3}" target=""/>
+      <hotspot distance="973.657" pan="-346.11" skinid="ht_node" description="" tilt="-2.45" id="Point03" title="Tượng Bảo Tàng " url="{node1}" target=""/>
     </hotspots>
     <media>
-      <sound mode="0" tilt="-1.000" tiltsize="10.000" nodechangekeep="1" loop="1" field="90.000" pan="-1.000" pansize="10.000" ambientlevel="0.000" level="1.000" id="_background" startmutedmobile="0">
-        <source url="media/VayGiu-VuongTinhVanKhongMap-6952041.mp3" mono="0"/>
+      <sound loop="1" level="1.000" field="90.000" pan="-1.000" tilt="-1.000" mode="0" id="_background" pansize="10.000" nodechangekeep="1" ambientlevel="0.000" tiltsize="10.000" startmutedmobile="0">
+        <source mono="0" url="media/VayGiu-VuongTinhVanKhongMap-6952041.mp3"/>
       </sound>
     </media>
-    <transition type="crossdissolve" zoomafterinfov="140" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" softedge="0" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" delay="none" zoomin="0"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control invertcontrol="1" lockedmouse="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" rubberband="0" contextprojections="0" lockedwheel="0" contextfullscreen="1"/>
+    <transition zoomafterinfov="140" delay="none" enabled="1" type="crossdissolve" blendtime="1" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" hideabout="0" sensitivity="8" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" contextvr="1" speedwheel="1" invertwheel="0"/>
   </panorama>
   <masternode>
-    <userdata title="Giới Thiệu Bảo Tàng " copyright="" author="" tags="" description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&#xa;&#xa;" comment=""/>
+    <userdata comment="" description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&#xa;&#xa;" tags="" author="" title="Giới Thiệu Bảo Tàng" copyright=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <map title="" type="web" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" googlecustomstylecode="" mapprovider="openstreetmap" mapstyle="streets" index="0" mapmaxzoom="18" id="Map01"/>
+  <map mapprovider="openstreetmap" mapstyle="streets" googlecustomstylecode="" index="0" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" type="web" mapmaxzoom="18" id="Map01" title=""/>
 </tour>
