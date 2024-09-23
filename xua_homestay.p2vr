@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.4" rev="20938">
+<pano2vrconfig rev="20938" version="7.1.4">
   <tour>
     <panorama>
       <id>node1</id>
@@ -14,32 +14,32 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>27.4964</start>
+          <start>86.82</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-35.42</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>154.302</start>
+          <start>138.92</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>0</pan>
+          <pan>68.83</pan>
           <tilt>-90</tilt>
-          <fov>170</fov>
+          <fov>347.29</fov>
         </flyinstart>
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2024-09-20T11:35:46</defaultviewtimestamp>
+        <defaultviewtimestamp>2024-09-23T14:41:03</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-08-18T14:56:02</capturedatetime>
@@ -47,8 +47,9 @@
         <longitude>105.499119</longitude>
         <altitude>54.71</altitude>
         <datetime>18/08/2023 2:56 CH</datetime>
-        <tags>banngay</tags>
+        <tags>1|2|banngay|trencao</tags>
         <customprops/>
+        <title>Trên Cao </title>
       </userdata>
       <projectsettings>
         <userdata>
@@ -178,8 +179,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-289.82</pan>
-            <tilt>-46.76</tilt>
+            <pan>-329.92</pan>
+            <tilt>-75.88</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -370,7 +371,8 @@
         <longitude>105.498853</longitude>
         <altitude>56.07</altitude>
         <datetime>18/08/2023 3:13 CH</datetime>
-        <tags>banngay</tags>
+        <tags>banngay|beboi</tags>
+        <title>Bể Trên Cao </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -542,7 +544,8 @@
         <longitude>105.498842</longitude>
         <altitude>57.98</altitude>
         <datetime>18/08/2023 3:20 CH</datetime>
-        <tags>banngay</tags>
+        <tags>3|banngay|beboi|beboiday|daubeboi</tags>
+        <title>Đầu Bể </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -688,7 +691,8 @@
         <longitude>105.498872</longitude>
         <altitude>57.61</altitude>
         <datetime>18/08/2023 3:22 CH</datetime>
-        <tags>banngay</tags>
+        <tags>4|banngay|loivao</tags>
+        <title>Lối Vào Tường Vi </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -913,7 +917,8 @@
         <longitude>105.498947</longitude>
         <altitude>58.64</altitude>
         <datetime>18/08/2023 3:23 CH</datetime>
-        <tags>banngay</tags>
+        <tags>5|banngay|dayandnight|loivao</tags>
+        <title>Trung Tâm </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1111,7 +1116,8 @@
         <longitude>105.499136</longitude>
         <altitude>57.32</altitude>
         <datetime>18/08/2023 3:24 CH</datetime>
-        <tags>banngay</tags>
+        <tags>6|banngay|dayandnight|loivao|vao2</tags>
+        <title>Lối Vào Homestay </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1283,7 +1289,8 @@
         <longitude>105.499211</longitude>
         <altitude>57.63</altitude>
         <datetime>18/08/2023 3:25 CH</datetime>
-        <tags>banngay</tags>
+        <tags>banngay|dayandnight|homestay</tags>
+        <title>Homestay </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1377,7 +1384,8 @@
         <longitude>105.499183</longitude>
         <altitude>57.78</altitude>
         <datetime>18/08/2023 3:25 CH</datetime>
-        <tags>banngay</tags>
+        <tags>banngay|nhaco</tags>
+        <title>Đường Vào Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1497,7 +1505,8 @@
         <longitude>105.499581</longitude>
         <altitude>64.05</altitude>
         <datetime>18/08/2023 3:27 CH</datetime>
-        <tags>banngay</tags>
+        <tags>banngay|cong</tags>
+        <title>Cổng Vào </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1591,7 +1600,8 @@
         <longitude>105.498997</longitude>
         <altitude>66.78</altitude>
         <datetime>18/08/2023 4:39 CH</datetime>
-        <tags>banngay</tags>
+        <tags>10|banngay|dayandnight|khugiaitri</tags>
+        <title>Khu Giải Trí </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1737,7 +1747,7 @@
         <longitude>105.499092</longitude>
         <altitude>60.12</altitude>
         <datetime>18/08/2023 4:39 CH</datetime>
-        <tags>banngay</tags>
+        <tags>11|banngay|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1936,7 +1946,8 @@
         <longitude>105.499064</longitude>
         <altitude>34.4</altitude>
         <datetime>18/08/2023 4:41 CH</datetime>
-        <tags>cuaphongkhach</tags>
+        <tags>12|cuaphongkhach|dayandnight|phongkhach</tags>
+        <title>Cửa Phòng Khách </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2082,7 +2093,8 @@
         <longitude>105.499347</longitude>
         <altitude>55.16</altitude>
         <datetime>18/08/2023 4:52 CH</datetime>
-        <tags>banngay</tags>
+        <tags>13|banngay|dayandnight|nhaco</tags>
+        <title>Cổng Vào  Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2203,7 +2215,8 @@
         <longitude>105.499333</longitude>
         <altitude>58.41</altitude>
         <datetime>18/08/2023 4:53 CH</datetime>
-        <tags>banngay</tags>
+        <tags>14|banngay|dayandnight|nhaco</tags>
+        <title>Cửa Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2323,7 +2336,8 @@
         <longitude>105.499456</longitude>
         <altitude>58.89</altitude>
         <datetime>18/08/2023 4:54 CH</datetime>
-        <tags>banngay</tags>
+        <tags>15|banngay|dayandnight|nhaco</tags>
+        <title>Sân Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2469,7 +2483,8 @@
         <longitude>105.499514</longitude>
         <altitude>55.5</altitude>
         <datetime>18/08/2023 4:55 CH</datetime>
-        <tags>banngay</tags>
+        <tags>16|banngay|dayandnight|nhaco</tags>
+        <title>Sân Trong Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2589,7 +2604,8 @@
         <longitude>105.499572</longitude>
         <altitude>59.86</altitude>
         <datetime>18/08/2023 4:55 CH</datetime>
-        <tags>banngay</tags>
+        <tags>17|banngay|dayandnight|nhaco</tags>
+        <title>Bếp Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2803,7 +2819,8 @@
         <longitude>105.499253</longitude>
         <altitude>67.85</altitude>
         <datetime>18/08/2023 7:49 CH</datetime>
-        <tags>banngay</tags>
+        <tags>banngay|phongkhach</tags>
+        <title>Bàn Ăn </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2949,7 +2966,8 @@
         <longitude>105.499106</longitude>
         <altitude>44.59</altitude>
         <datetime>19/08/2023 11:05 SA</datetime>
-        <tags>banngay</tags>
+        <tags>20|banngay|dayandnight|mh4</tags>
+        <title>Phòng Ngủ MH4</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3095,7 +3113,8 @@
         <longitude>105.499125</longitude>
         <altitude>51.28</altitude>
         <datetime>19/08/2023 11:05 SA</datetime>
-        <tags>banngay</tags>
+        <tags>21|banngay|dayandnight|mh4</tags>
+        <title>Phòng Tắm MH4</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3189,7 +3208,8 @@
         <longitude>105.499117</longitude>
         <altitude>50.96</altitude>
         <datetime>19/08/2023 11:06 SA</datetime>
-        <tags>banngay</tags>
+        <tags>22|banngay|dayandnight|mh4</tags>
+        <title>Hành Lang MH4</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3309,7 +3329,8 @@
         <longitude>105.499047</longitude>
         <altitude>63.22</altitude>
         <datetime>19/08/2023 11:14 SA</datetime>
-        <tags>banngay</tags>
+        <tags>23|banngay|dayandnight|mh3</tags>
+        <title>Phòng Ngủ MH3 </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3429,7 +3450,8 @@
         <longitude>105.499092</longitude>
         <altitude>43.24</altitude>
         <datetime>19/08/2023 11:15 SA</datetime>
-        <tags>banngay</tags>
+        <tags>24|banngay|dayandnight|mh3</tags>
+        <title>Bên Trong Mộc Hương 3 </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3549,7 +3571,8 @@
         <longitude>105.499036</longitude>
         <altitude>52.09</altitude>
         <datetime>19/08/2023 11:15 SA</datetime>
-        <tags>banngay</tags>
+        <tags>25|banngay|dayandnight|mh3</tags>
+        <title>Hành Lang MH3</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3643,7 +3666,8 @@
         <longitude>105.498869</longitude>
         <altitude>58.58</altitude>
         <datetime>19/08/2023 11:22 SA</datetime>
-        <tags>banngay</tags>
+        <tags>26|banngay|dayandnight|mh1</tags>
+        <title>Phòng Ngủ MH1</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3763,7 +3787,8 @@
         <longitude>105.499092</longitude>
         <altitude>51.38</altitude>
         <datetime>19/08/2023 11:23 SA</datetime>
-        <tags>banngay</tags>
+        <tags>27|banngay|dayandnight|mh1</tags>
+        <title>Hành Lang MH1</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3883,7 +3908,8 @@
         <longitude>105.499067</longitude>
         <altitude>52.67</altitude>
         <datetime>19/08/2023 11:24 SA</datetime>
-        <tags>banngay</tags>
+        <tags>28|banngay|dayandnight|mh1</tags>
+        <title>Phòng Tắm MH1 </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3977,7 +4003,9 @@
         <longitude>105.499164</longitude>
         <altitude>45.62</altitude>
         <datetime>19/08/2023 11:26 SA</datetime>
-        <tags>banngay</tags>
+        <tags>30|banngay|dayandnight|mh2</tags>
+        <title>
+Phòng Ngủ MH2</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4123,7 +4151,8 @@
         <longitude>105.499056</longitude>
         <altitude>52.79</altitude>
         <datetime>19/08/2023 11:27 SA</datetime>
-        <tags>banngay</tags>
+        <tags>32|banngay|dayandnight|mh2</tags>
+        <title>Hành Lang MH2</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4243,7 +4272,8 @@
         <longitude>105.499250</longitude>
         <altitude>51.3</altitude>
         <datetime>19/08/2023 11:29 SA</datetime>
-        <tags>banngay</tags>
+        <tags>33|banngay|dayandnight|phongkhach</tags>
+        <title>Phòng Khách </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4415,7 +4445,8 @@
         <longitude>105.499311</longitude>
         <altitude>50.8</altitude>
         <datetime>19/08/2023 11:30 SA</datetime>
-        <tags>banngay</tags>
+        <tags>34|banngay|dayandnight|phongkhach</tags>
+        <title>Phòng Bếp </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4509,7 +4540,8 @@
         <longitude>105.499247</longitude>
         <altitude>55.19</altitude>
         <datetime>19/08/2023 11:30 SA</datetime>
-        <tags>banngay</tags>
+        <tags>35|banngay|dayandnight|phongkhach</tags>
+        <title>Bàn Trà </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4630,7 +4662,7 @@
         <longitude>105.498950</longitude>
         <altitude>61.33</altitude>
         <datetime>19/08/2023 11:32 SA</datetime>
-        <tags>banngay</tags>
+        <tags>36|banngay|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4802,7 +4834,7 @@
         <longitude>105.498825</longitude>
         <altitude>58.82</altitude>
         <datetime>19/08/2023 11:33 SA</datetime>
-        <tags>banngay</tags>
+        <tags>37|banngay|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4896,7 +4928,7 @@
         <longitude>105.498806</longitude>
         <altitude>58.92</altitude>
         <datetime>19/08/2023 11:34 SA</datetime>
-        <tags>banngay</tags>
+        <tags>38|banngay|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5042,7 +5074,8 @@
         <longitude>105.498806</longitude>
         <altitude>58.92</altitude>
         <datetime>19/08/2023 11:35 SA</datetime>
-        <tags>banngay</tags>
+        <tags>39|banngay|beboi|dayandnight</tags>
+        <title>Cuối Bể </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5188,7 +5221,7 @@
         <longitude>105.498803</longitude>
         <altitude>56.57</altitude>
         <datetime>19/08/2023 11:36 SA</datetime>
-        <tags>banngay</tags>
+        <tags>40|banngay|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5282,7 +5315,8 @@
         <longitude>105.498875</longitude>
         <altitude>58.89</altitude>
         <datetime>19/08/2023 11:36 SA</datetime>
-        <tags>banngay</tags>
+        <tags>41|banngay|dayandnight|tv1</tags>
+        <title>Hành Lang TV1</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5428,7 +5462,8 @@
         <longitude>105.498856</longitude>
         <altitude>57.34</altitude>
         <datetime>19/08/2023 11:38 SA</datetime>
-        <tags>banngay</tags>
+        <tags>42|banngay|dayandnight|tv1</tags>
+        <title>Phòng Ngủ TV1</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5548,7 +5583,8 @@
         <longitude>105.498856</longitude>
         <altitude>57.34</altitude>
         <datetime>19/08/2023 11:38 SA</datetime>
-        <tags>banngay</tags>
+        <tags>43|banngay|dayandnight|tv1</tags>
+        <title>Phòng Tắm TV1 </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5642,7 +5678,8 @@
         <longitude>105.499664</longitude>
         <altitude>47.84</altitude>
         <datetime>19/08/2023 11:59 SA</datetime>
-        <tags>banngay</tags>
+        <tags>44|banngay|dayandnight|nhaco</tags>
+        <title>Trong Nhà Cổ</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5788,7 +5825,8 @@
         <longitude>105.499556</longitude>
         <altitude>54.67</altitude>
         <datetime>19/08/2023 12:00 CH</datetime>
-        <tags>banngay</tags>
+        <tags>45|banngay|dayandnight|nhaco</tags>
+        <title>Giữa Nhà Cổ</title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5908,7 +5946,8 @@
         <longitude>105.499553</longitude>
         <altitude>54.35</altitude>
         <datetime>19/08/2023 12:01 CH</datetime>
-        <tags>banngay</tags>
+        <tags>46|banngay|dayandnight|nhaco</tags>
+        <title>Đồ Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6029,7 +6068,8 @@
         <longitude>105.499586</longitude>
         <altitude>55.38</altitude>
         <datetime>19/08/2023 12:02 CH</datetime>
-        <tags>banngay</tags>
+        <tags>47|banngay|dayandnight|nhaco</tags>
+        <title>Hiên Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6149,7 +6189,7 @@
         <longitude>105.499025</longitude>
         <altitude>44.39</altitude>
         <datetime>19/08/2023 12:06 CH</datetime>
-        <tags>banngay</tags>
+        <tags>48|banngay|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6321,7 +6361,7 @@
         <longitude>105.499092</longitude>
         <altitude>57.52</altitude>
         <datetime>19/08/2023 12:07 CH</datetime>
-        <tags>banngay</tags>
+        <tags>49|banngay|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6519,7 +6559,7 @@
         <longitude>105.499142</longitude>
         <altitude>52.37</altitude>
         <datetime>29/08/2023 6:48 CH</datetime>
-        <tags>bandem</tags>
+        <tags>51|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6665,7 +6705,7 @@
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:49 CH</datetime>
-        <tags>bandem</tags>
+        <tags>52|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6785,7 +6825,7 @@
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:50 CH</datetime>
-        <tags>bandem</tags>
+        <tags>53|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6879,7 +6919,7 @@
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:52 CH</datetime>
-        <tags>bandem</tags>
+        <tags>54|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7025,7 +7065,7 @@
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:52 CH</datetime>
-        <tags>bandem</tags>
+        <tags>55|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7171,7 +7211,7 @@
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:54 CH</datetime>
-        <tags>bandem</tags>
+        <tags>56|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7317,7 +7357,7 @@
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:55 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7411,7 +7451,7 @@
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:56 CH</datetime>
-        <tags>bandem</tags>
+        <tags>58|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7557,7 +7597,7 @@
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:57 CH</datetime>
-        <tags>bandem</tags>
+        <tags>59|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7729,7 +7769,7 @@
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:58 CH</datetime>
-        <tags>bandem</tags>
+        <tags>60|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7927,7 +7967,7 @@
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 6:59 CH</datetime>
-        <tags>bandem</tags>
+        <tags>61|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8047,7 +8087,7 @@
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:00 CH</datetime>
-        <tags>bandem</tags>
+        <tags>62|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8167,7 +8207,7 @@
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:01 CH</datetime>
-        <tags>bandem</tags>
+        <tags>63|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8261,7 +8301,7 @@
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:02 CH</datetime>
-        <tags>bandem</tags>
+        <tags>64|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8407,7 +8447,7 @@
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:03 CH</datetime>
-        <tags>bandem</tags>
+        <tags>65|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8501,7 +8541,8 @@
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:04 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|mh2</tags>
+        <title>Phòng Tắm </title>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8595,7 +8636,7 @@
         <longitude>105.499175</longitude>
         <altitude>40.59</altitude>
         <datetime>29/08/2023 7:05 CH</datetime>
-        <tags>pkhachdem</tags>
+        <tags>67|dayandnight|pkhachdem</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8715,7 +8756,7 @@
         <longitude>105.499217</longitude>
         <altitude>37.75</altitude>
         <datetime>29/08/2023 7:06 CH</datetime>
-        <tags>bandem</tags>
+        <tags>68|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8861,7 +8902,7 @@
         <longitude>105.499217</longitude>
         <altitude>37.75</altitude>
         <datetime>29/08/2023 7:06 CH</datetime>
-        <tags>bandem</tags>
+        <tags>69|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8955,7 +8996,7 @@
         <longitude>105.499311</longitude>
         <altitude>47.49</altitude>
         <datetime>29/08/2023 7:07 CH</datetime>
-        <tags>bandem</tags>
+        <tags>70|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9049,7 +9090,7 @@
         <longitude>105.499361</longitude>
         <altitude>50.68</altitude>
         <datetime>29/08/2023 7:08 CH</datetime>
-        <tags>bandem</tags>
+        <tags>71|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9169,7 +9210,7 @@
         <longitude>105.499361</longitude>
         <altitude>51.65</altitude>
         <datetime>29/08/2023 7:09 CH</datetime>
-        <tags>bandem</tags>
+        <tags>72|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9289,7 +9330,7 @@
         <longitude>105.499450</longitude>
         <altitude>49.93</altitude>
         <datetime>29/08/2023 7:10 CH</datetime>
-        <tags>bandem</tags>
+        <tags>73|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9435,7 +9476,7 @@
         <longitude>105.499450</longitude>
         <altitude>49.93</altitude>
         <datetime>29/08/2023 7:10 CH</datetime>
-        <tags>bandem</tags>
+        <tags>74|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9555,7 +9596,7 @@
         <longitude>105.499572</longitude>
         <altitude>52.26</altitude>
         <datetime>29/08/2023 7:12 CH</datetime>
-        <tags>bandem</tags>
+        <tags>75|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9649,7 +9690,7 @@
         <longitude>105.499533</longitude>
         <altitude>51.52</altitude>
         <datetime>29/08/2023 7:12 CH</datetime>
-        <tags>bandem</tags>
+        <tags>76|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9769,7 +9810,7 @@
         <longitude>105.499503</longitude>
         <altitude>52.99</altitude>
         <datetime>29/08/2023 7:13 CH</datetime>
-        <tags>bandem</tags>
+        <tags>77|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9915,7 +9956,7 @@
         <longitude>105.499525</longitude>
         <altitude>52.75</altitude>
         <datetime>29/08/2023 7:13 CH</datetime>
-        <tags>bandem</tags>
+        <tags>78|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -10035,7 +10076,7 @@
         <longitude>105.499519</longitude>
         <altitude>52.41</altitude>
         <datetime>29/08/2023 7:14 CH</datetime>
-        <tags>bandem</tags>
+        <tags>79|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -10155,7 +10196,7 @@
         <longitude>105.499075</longitude>
         <altitude>50.59</altitude>
         <datetime>29/08/2023 7:18 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|dayandnight|loivaodem</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -10327,7 +10368,7 @@
         <longitude>105.498983</longitude>
         <altitude>47.91</altitude>
         <datetime>29/08/2023 7:19 CH</datetime>
-        <tags>bandem</tags>
+        <tags>81|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -10473,7 +10514,7 @@
         <longitude>105.499178</longitude>
         <altitude>50.33</altitude>
         <datetime>29/08/2023 7:20 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|dayandnight|vaodem2</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -10593,7 +10634,7 @@
         <longitude>105.499217</longitude>
         <altitude>51.49</altitude>
         <datetime>29/08/2023 7:21 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|dayandnight|homedem</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -10687,7 +10728,7 @@
         <longitude>105.498919</longitude>
         <altitude>48.35</altitude>
         <datetime>29/08/2023 7:25 CH</datetime>
-        <tags>bandem</tags>
+        <tags>84|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -10886,7 +10927,7 @@
         <longitude>105.498792</longitude>
         <altitude>46.64</altitude>
         <datetime>29/08/2023 7:25 CH</datetime>
-        <tags>bandem</tags>
+        <tags>85|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11032,7 +11073,7 @@
         <longitude>105.498764</longitude>
         <altitude>51.32</altitude>
         <datetime>29/08/2023 7:27 CH</datetime>
-        <tags>bandem</tags>
+        <tags>86|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11126,7 +11167,7 @@
         <longitude>105.498789</longitude>
         <altitude>46.96</altitude>
         <datetime>29/08/2023 7:28 CH</datetime>
-        <tags>bandem</tags>
+        <tags>87|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11272,7 +11313,7 @@
         <longitude>105.498756</longitude>
         <altitude>46.9</altitude>
         <datetime>29/08/2023 7:28 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11392,7 +11433,7 @@
         <longitude>105.498736</longitude>
         <altitude>47.34</altitude>
         <datetime>29/08/2023 7:29 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11486,7 +11527,7 @@
         <longitude>105.498769</longitude>
         <altitude>47.22</altitude>
         <datetime>29/08/2023 7:30 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11606,7 +11647,7 @@
         <longitude>105.498758</longitude>
         <altitude>45.96</altitude>
         <datetime>29/08/2023 7:30 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11700,7 +11741,7 @@
         <longitude>105.498828</longitude>
         <altitude>46.13</altitude>
         <datetime>29/08/2023 7:31 CH</datetime>
-        <tags>bandem</tags>
+        <tags>92|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11846,7 +11887,7 @@
         <longitude>105.498833</longitude>
         <altitude>47.59</altitude>
         <datetime>29/08/2023 7:31 CH</datetime>
-        <tags>bandem</tags>
+        <tags>93|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11966,7 +12007,7 @@
         <longitude>105.498758</longitude>
         <altitude>55.7</altitude>
         <datetime>29/08/2023 7:35 CH</datetime>
-        <tags>bandem</tags>
+        <tags>94|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -12060,7 +12101,7 @@
         <longitude>105.498858</longitude>
         <altitude>49.95</altitude>
         <datetime>29/08/2023 7:36 CH</datetime>
-        <tags>bandem</tags>
+        <tags>bandem|beboinight|daubedem</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -12206,7 +12247,7 @@
         <longitude>105.498856</longitude>
         <altitude>48.09</altitude>
         <datetime>29/08/2023 7:37 CH</datetime>
-        <tags>bandem</tags>
+        <tags>96|bandem|dayandnight</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -12314,6 +12355,7 @@
     <projectsettings>
       <userdata>
         <customprops/>
+        <title>Nhà Xưa HomeStay</title>
       </userdata>
       <mapgrid>
         <anchor/>
@@ -12321,6 +12363,12 @@
       <floorplangrid>
         <anchor/>
       </floorplangrid>
+      <usenodealtitude>0</usenodealtitude>
+      <language>vi-VN</language>
+      <translatehotspotmedia>1</translatehotspotmedia>
+      <translatepinnedmedia>1</translatepinnedmedia>
+      <translationspath>translations</translationspath>
+      <fovmode>diagonal</fovmode>
       <translationsavailable>
         <value id="Project">vi-VN</value>
       </translationsavailable>
@@ -12337,7 +12385,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>D:/duc_workspace/xua_homestay/index.html</filename>
+          <filename>index.html</filename>
           <values>
             <value id="cachebust">true</value>
             <value id="css"/>
@@ -12353,18 +12401,36 @@
           <zoomafterinfov>140</zoomafterinfov>
           <zoomafteroutfov>40</zoomafteroutfov>
         </transition>
-        <autorotate/>
+        <autorotate>
+          <enabled>1</enabled>
+          <delay>1</delay>
+          <useAnimation>1</useAnimation>
+          <horizonfromdefview>0</horizonfromdefview>
+        </autorotate>
         <soundstransition/>
-        <flyintransition/>
+        <flyintransition>
+          <enabled>1</enabled>
+        </flyintransition>
         <hotspottext/>
         <hotspotstyle/>
-        <webvr/>
+        <webvr>
+          <enabled>1</enabled>
+        </webvr>
         <tilesize>1680</tilesize>
-        <filename>D:/duc_workspace/xua_homestay/pano.xml</filename>
+        <filename>pano.xml</filename>
         <skinfile>$d/feather_orb.ggsk</skinfile>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <zoomcentercursor>0</zoomcentercursor>
+        <skinconfiguration>
+          <value id="vis_thumbnail_menu">true</value>
+        </skinconfiguration>
+        <skintablesconfiguration>
+          <value id="Menu Category">trencao|Trên Cao |\beboi|Bể Bơi |\loivao|Lối Vào |\nhaco|Nhà Cổ |\khugiaitri|Khu Giải Trí |\mh4|Mộc Hương 4 |\mh3|Mộc Hương 3 |\phongkhach|Phòng Khách |\tv1|Tường Vi 1 |\mh1|Mộc Hương 1 |\mh2|Mộc Hương 2 |\||</value>
+        </skintablesconfiguration>
+        <skincolorsconfiguration>
+          <value id="Accent Color">4283413954</value>
+        </skincolorsconfiguration>
       </htmlcss>
     </output>
     <streetview/>

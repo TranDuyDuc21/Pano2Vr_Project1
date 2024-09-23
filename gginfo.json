@@ -4,7 +4,8 @@
 	"external": {
 		"js": [
 			"https://www.youtube.com/iframe_api",
-			"https://player.vimeo.com/api/player.js"
+			"https://player.vimeo.com/api/player.js",
+			"webxr/webxr-polyfill.min.js"
 		],
 		"css": []
 	},
@@ -15,7 +16,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2024-09-20T09:46:26.560Z",
+	"creationdate": "2024-09-23T09:32:10.093Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
