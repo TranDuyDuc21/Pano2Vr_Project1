@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.4/20938
 // Filename: feather_orb.ggsk
-// Generated 2024-09-25T16:11:02
+// Generated 2024-09-25T16:36:53
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -10799,12 +10799,6 @@ alert("The current view has been copied.");
 		}
 		me._btnhidetoolbar.onclick=function (e) {
 			player.setVariableValue('show_hide_main_controller', false);
-			me._btnhidetoolbar.style.transition='none';
-			me._btnhidetoolbar.style.visibility=(Number(me._btnhidetoolbar.style.opacity)>0||!me._btnhidetoolbar.style.opacity)?'inherit':'hidden';
-			me._btnhidetoolbar.ggVisible=true;
-			me._btnshowtoolbar.style.transition='none';
-			me._btnshowtoolbar.style.visibility='hidden';
-			me._btnshowtoolbar.ggVisible=false;
 		}
 		me._btnhidetoolbar.onmouseenter=function (e) {
 			me._btnhidetoolbar__img.style.visibility='hidden';
@@ -11128,6 +11122,7 @@ alert("The current view has been copied.");
 		me.__360.ggUpdatePosition=function (useTransition) {
 		}
 		me._container_main_controller.appendChild(me.__360);
+		me.divSkin.appendChild(me._container_main_controller);
 		el=me._btnshowtoolbar=document.createElement('div');
 		els=me._btnshowtoolbar__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
@@ -11140,47 +11135,59 @@ alert("The current view has been copied.");
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="btnShowToolbar.";
-		el.ggDx=-18;
-		el.ggDy=-67;
+		el.ggDx=0;
+		el.ggDy=0;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
 		el.ggType='svg';
 		hs ='';
 		hs+='height : 24px;';
-		hs+='left : calc(50% - ((24px + 0px) / 2) - 18px);';
+		hs+='left : calc(50% - ((24px + 0px) / 2) + 0px);';
 		hs+='position : absolute;';
-		hs+='top : calc(50% - ((24px + 0px) / 2) - 67px);';
+		hs+='top : calc(50% - ((24px + 0px) / 2) + 0px);';
 		hs+='visibility : hidden;';
 		hs+='width : 24px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
 		me._btnshowtoolbar.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
 			return false;
 		}
 		el.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
 			return player.getCurrentNode();
 		}
+		me._btnshowtoolbar.logicBlock_visible = function() {
+			var newLogicStateVisible;
+			if (
+				((player.getVariableValue('show_hide_main_controller') == false))
+			)
+			{
+				newLogicStateVisible = 0;
+			}
+			else {
+				newLogicStateVisible = -1;
+			}
+			if (me._btnshowtoolbar.ggCurrentLogicStateVisible != newLogicStateVisible) {
+				me._btnshowtoolbar.ggCurrentLogicStateVisible = newLogicStateVisible;
+				me._btnshowtoolbar.style.transition='';
+				if (me._btnshowtoolbar.ggCurrentLogicStateVisible == 0) {
+					me._btnshowtoolbar.style.visibility=(Number(me._btnshowtoolbar.style.opacity)>0||!me._btnshowtoolbar.style.opacity)?'inherit':'hidden';
+					me._btnshowtoolbar.ggVisible=true;
+				}
+				else {
+					me._btnshowtoolbar.style.visibility="hidden";
+					me._btnshowtoolbar.ggVisible=false;
+				}
+			}
+		}
+		me._btnshowtoolbar.logicBlock_visible();
 		me._btnshowtoolbar.onclick=function (e) {
 			player.setVariableValue('show_hide_main_controller', true);
-			me._btnshowtoolbar.style.transition='none';
-			me._btnshowtoolbar.style.visibility=(Number(me._btnshowtoolbar.style.opacity)>0||!me._btnshowtoolbar.style.opacity)?'inherit':'hidden';
-			me._btnshowtoolbar.ggVisible=true;
-			me._btnhidetoolbar.style.transition='none';
-			me._btnhidetoolbar.style.visibility='hidden';
-			me._btnhidetoolbar.ggVisible=false;
 		}
 		me._btnshowtoolbar.ggUpdatePosition=function (useTransition) {
 		}
-		me._container_main_controller.appendChild(me._btnshowtoolbar);
-		me.divSkin.appendChild(me._container_main_controller);
+		me.divSkin.appendChild(me._btnshowtoolbar);
 		el=me._thumbnail_menu_1=document.createElement('div');
 		els=me._thumbnail_menu_1__content=document.createElement('div');
 		els.className='ggskin ggskin_subelement ggskin_scrollarea';
@@ -25634,6 +25641,7 @@ alert("The current view has been copied.");
 		me.elementMouseOver['stop_']=false;
 		me.__360.logicBlock_visible();
 		me.elementMouseOver['_360']=false;
+		me._btnshowtoolbar.logicBlock_visible();
 		me._thumbnail_menu_1.logicBlock_alpha();
 		me._screentint_phone_1.logicBlock_alpha();
 		me.elementMouseOver['close_popup_phone1']=false;
@@ -26124,6 +26132,7 @@ alert("The current view has been copied.");
 			me._video_url_popup_phone1.logicBlock_visible();
 			me._video_url_popup_phone_play1.logicBlock_visible();
 			me._container_main_controller.logicBlock_visible();
+			me._btnshowtoolbar.logicBlock_visible();
 			me._thumbnail_menu_1.logicBlock_alpha();
 			me._thumbnail_cloner.ggUpdateConditionNodeChange();
 			me._screentint_phone_1.logicBlock_alpha();
@@ -26473,6 +26482,7 @@ alert("The current view has been copied.");
 			me._video_url_popup_phone1.logicBlock_visible();
 			me._video_url_popup_phone_play1.logicBlock_visible();
 			me._container_main_controller.logicBlock_visible();
+			me._btnshowtoolbar.logicBlock_visible();
 			me._thumbnail_menu_1.ggUpdatePosition();
 			me._thumbnail_menu_1.logicBlock_alpha();
 			me._screentint_phone_1.logicBlock_alpha();
@@ -26803,6 +26813,7 @@ alert("The current view has been copied.");
 		});
 		player.addListener('varchanged_show_hide_main_controller', function(event) {
 			me._container_main_controller.logicBlock_visible();
+			me._btnshowtoolbar.logicBlock_visible();
 		});
 		player.addListener('varchanged_sounds_splashscreen_accepted', function(event) {
 			me._variable_vis_sounds_splashscreen.logicBlock();
@@ -30653,17 +30664,17 @@ alert("The current view has been copied.");
 			skin._pdf_popup_title0.ggUpdateText();
 			skin._pdf_popup_title0.ggTextDiv.scrollTop = 0;
 			skin._popup_pdf0.ggInitPdf(player.getBasePath()+""+player._(me.hotspot.url));
-			let pdfInterval_391 = setInterval(() => {
+			let pdfInterval_427 = setInterval(() => {
 				if (skin._popup_pdf0__pdf.contentWindow.PDFViewerApplication && skin._popup_pdf0__pdf.contentWindow.PDFViewerApplication.initialized && skin._popup_pdf0__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._popup_pdf0__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 					skin._popup_pdf0.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-					clearInterval(pdfInterval_391);
+					clearInterval(pdfInterval_427);
 				}
 			}, 50);
 			skin._pdf_popup_phone1.ggInitPdf(player.getBasePath()+""+player._(me.hotspot.url));
-			let pdfInterval_392 = setInterval(() => {
+			let pdfInterval_428 = setInterval(() => {
 				if (skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication && skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication.initialized && skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 					skin._pdf_popup_phone1.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-					clearInterval(pdfInterval_392);
+					clearInterval(pdfInterval_428);
 				}
 			}, 50);
 			if (
@@ -34954,10 +34965,10 @@ me._ht_info_bg.style.transform='';
 					((player.getVariableValue('resp_phone') == false))
 				)
 			) {
-				let pdfInterval_393 = setInterval(() => {
+				let pdfInterval_429 = setInterval(() => {
 					if (skin._ht_pdf_popup_pdf__pdf.contentWindow.PDFViewerApplication && skin._ht_pdf_popup_pdf__pdf.contentWindow.PDFViewerApplication.initialized && skin._ht_pdf_popup_pdf__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._ht_pdf_popup_pdf__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._ht_pdf_popup_pdf.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_393);
+						clearInterval(pdfInterval_429);
 					}
 				}, 50);
 			}
@@ -34980,10 +34991,10 @@ me._ht_info_bg.style.transform='';
 					((player.getVariableValue('resp_phone') == true))
 				)
 			) {
-				let pdfInterval_394 = setInterval(() => {
+				let pdfInterval_430 = setInterval(() => {
 					if (skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication && skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication.initialized && skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._pdf_popup_phone1.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_394);
+						clearInterval(pdfInterval_430);
 					}
 				}, 50);
 			}
@@ -41492,10 +41503,10 @@ me._ht_info_bg.style.transform='';
 					((player.getVariableValue('resp_phone') == false))
 				)
 			) {
-				let pdfInterval_395 = setInterval(() => {
+				let pdfInterval_431 = setInterval(() => {
 					if (skin._popup_pdf0__pdf.contentWindow.PDFViewerApplication && skin._popup_pdf0__pdf.contentWindow.PDFViewerApplication.initialized && skin._popup_pdf0__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._popup_pdf0__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._popup_pdf0.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_395);
+						clearInterval(pdfInterval_431);
 					}
 				}, 50);
 			}
@@ -41511,10 +41522,10 @@ me._ht_info_bg.style.transform='';
 					((player.getVariableValue('resp_phone') == true))
 				)
 			) {
-				let pdfInterval_396 = setInterval(() => {
+				let pdfInterval_432 = setInterval(() => {
 					if (skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication && skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication.initialized && skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._pdf_popup_phone1__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._pdf_popup_phone1.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_396);
+						clearInterval(pdfInterval_432);
 					}
 				}, 50);
 			}
