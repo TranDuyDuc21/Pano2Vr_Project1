@@ -91,6 +91,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -101,8 +102,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-326.81</pan>
-            <tilt>-15.15</tilt>
+            <pan>-326.96</pan>
+            <tilt>-15.1</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -117,6 +118,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node41}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -143,6 +145,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node36}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -169,6 +172,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node7}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -179,8 +183,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-292.74</pan>
-            <tilt>-48.29</tilt>
+            <pan>-292.98</pan>
+            <tilt>-48.28</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -195,6 +199,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node49}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -221,6 +226,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -247,6 +253,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node48}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -273,6 +280,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node15}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -295,8 +303,8 @@
           <videorect/>
           <type>audio</type>
           <id>_background</id>
-          <filename>C:/Users/admin/Downloads/VayGiu-VuongTinhVanKhongMap-6952041.mp3</filename>
-          <urlsafefilename>VayGiu-VuongTinhVanKhongMap-6952041.mp3</urlsafefilename>
+          <filename>C:/Users/admin/Downloads/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</filename>
+          <urlsafefilename>You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</urlsafefilename>
           <mode>0</mode>
           <nodechangekeep>1</nodechangekeep>
           <locked>0</locked>
@@ -394,6 +402,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -420,6 +429,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node41}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -446,6 +456,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node36}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -551,8 +562,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-187.83</pan>
-            <tilt>36.53</tilt>
+            <pan>-193.84</pan>
+            <tilt>31.33</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -567,6 +578,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node1}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -577,8 +589,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-310.53</pan>
-            <tilt>-4.24</tilt>
+            <pan>-312.99</pan>
+            <tilt>-15.58</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -593,6 +605,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -603,8 +616,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-335.49</pan>
-            <tilt>20.63</tilt>
+            <pan>-334.81</pan>
+            <tilt>4.54</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -619,6 +632,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node41}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -714,6 +728,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -740,6 +755,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node38}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -766,6 +782,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node37}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -792,6 +809,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node36}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -818,6 +836,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -844,6 +863,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -924,8 +944,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-239.05</pan>
-            <tilt>-7.95</tilt>
+            <pan>-239.03</pan>
+            <tilt>-7.96</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -940,6 +960,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -966,6 +987,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node10}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -992,6 +1014,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node36}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1018,6 +1041,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node6}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1044,6 +1068,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node7}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1139,6 +1164,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1165,6 +1191,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node1}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1191,6 +1218,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node7}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1201,8 +1229,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-235.19</pan>
-            <tilt>0.81</tilt>
+            <pan>-242.74</pan>
+            <tilt>-20.32</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1217,6 +1245,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node9}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1312,6 +1341,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node6}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1407,6 +1437,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node13}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1433,6 +1464,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node7}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1512,8 +1544,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-311.27</pan>
-            <tilt>-9.91</tilt>
+            <pan>-311.76</pan>
+            <tilt>-28.6</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1528,6 +1560,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node6}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1607,8 +1640,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-63.5</pan>
-            <tilt>-7.24</tilt>
+            <pan>-62.89</pan>
+            <tilt>-13.4</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1623,6 +1656,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1633,8 +1667,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-206.65</pan>
-            <tilt>-3.68</tilt>
+            <pan>-206.6</pan>
+            <tilt>-16.14</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1649,6 +1683,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1659,8 +1694,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-295.01</pan>
-            <tilt>-1.63</tilt>
+            <pan>-295.66</pan>
+            <tilt>-9.13</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1675,6 +1710,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1753,8 +1789,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-359.52</pan>
-            <tilt>-11.83</tilt>
+            <pan>-351.8</pan>
+            <tilt>-22.51</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1769,6 +1805,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node48}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1795,6 +1832,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node49}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1821,6 +1859,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1847,6 +1886,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node10}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1873,6 +1913,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node1}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1969,6 +2010,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node1}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1995,6 +2037,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2005,8 +2048,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-335.55</pan>
-            <tilt>-30.03</tilt>
+            <pan>-351.13</pan>
+            <tilt>-33.56</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2021,6 +2064,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node33}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2100,8 +2144,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-32.75</pan>
-            <tilt>-9.94</tilt>
+            <pan>-32.82</pan>
+            <tilt>-19.17</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2116,6 +2160,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node14}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2126,8 +2171,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-199.49</pan>
-            <tilt>-12.03</tilt>
+            <pan>-198.42</pan>
+            <tilt>-19.19</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2142,6 +2187,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node8}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2222,8 +2268,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-271.48</pan>
-            <tilt>-22.84</tilt>
+            <pan>-269.54</pan>
+            <tilt>-21.47</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2238,6 +2284,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node13}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2248,8 +2295,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-87.47</pan>
-            <tilt>-32.23</tilt>
+            <pan>-86.05</pan>
+            <tilt>-36.88</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2264,6 +2311,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node15}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2385,6 +2433,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node44}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2411,6 +2460,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node16}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2490,8 +2540,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-149.22</pan>
-            <tilt>-1.36</tilt>
+            <pan>-149.53</pan>
+            <tilt>-13.96</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2506,6 +2556,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node15}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2516,8 +2567,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-242.78</pan>
-            <tilt>-9.52</tilt>
+            <pan>-241.05</pan>
+            <tilt>-18.72</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2532,6 +2583,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node17}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2611,8 +2663,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-218.78</pan>
-            <tilt>-23.47</tilt>
+            <pan>-218.64</pan>
+            <tilt>-30.32</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2627,6 +2679,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node16}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2721,6 +2774,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2731,8 +2785,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-198.02</pan>
-            <tilt>-19.6</tilt>
+            <pan>-172.23</pan>
+            <tilt>-54.11</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2747,6 +2801,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node30}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2842,6 +2897,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node33}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2852,8 +2908,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-288.95</pan>
-            <tilt>-8.41</tilt>
+            <pan>-291.43</pan>
+            <tilt>-14.11</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2868,6 +2924,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node34}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2894,6 +2951,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2989,6 +3047,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node21}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2999,8 +3058,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-35.23</pan>
-            <tilt>8.43</tilt>
+            <pan>-30.28</pan>
+            <tilt>-16.62</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3015,6 +3074,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node22}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3120,8 +3180,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-93.41</pan>
-            <tilt>-16.39</tilt>
+            <pan>-75.06</pan>
+            <tilt>-40.77</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3136,6 +3196,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node20}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3215,8 +3276,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-86.29</pan>
-            <tilt>-10.54</tilt>
+            <pan>-87</pan>
+            <tilt>-26.63</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3231,6 +3292,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node21}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3241,8 +3303,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-131.89</pan>
-            <tilt>-3.65</tilt>
+            <pan>-132.38</pan>
+            <tilt>-3.66</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3257,6 +3319,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node20}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3362,8 +3425,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-186.96</pan>
-            <tilt>-0.75</tilt>
+            <pan>-181.41</pan>
+            <tilt>-11.42</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3378,6 +3441,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node24}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3457,8 +3521,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-311.66</pan>
-            <tilt>-2.33</tilt>
+            <pan>-310.2</pan>
+            <tilt>-16.05</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3473,6 +3537,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node23}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3578,8 +3643,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-217.5</pan>
-            <tilt>-19.78</tilt>
+            <pan>-214.67</pan>
+            <tilt>-26.94</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3594,6 +3659,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node24}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3699,8 +3765,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-347.43</pan>
-            <tilt>-1.64</tilt>
+            <pan>-346.05</pan>
+            <tilt>-12</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3715,6 +3781,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node27}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3794,8 +3861,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-138.55</pan>
-            <tilt>-10.15</tilt>
+            <pan>-139.07</pan>
+            <tilt>-10.22</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3810,6 +3877,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node28}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3836,6 +3904,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node26}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3915,8 +3984,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-200.17</pan>
-            <tilt>-21.78</tilt>
+            <pan>-195.83</pan>
+            <tilt>-31.94</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3931,6 +4000,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node26}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4027,6 +4097,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node32}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4079,6 +4150,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node65}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4174,6 +4246,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node30}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4295,6 +4368,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node35}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4347,6 +4421,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node34}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4452,8 +4527,8 @@ Phòng Ngủ MH2</title>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-87.66</pan>
-            <tilt>-10.74</tilt>
+            <pan>-88.87</pan>
+            <tilt>-39.74</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4468,6 +4543,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node33}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4563,6 +4639,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node33}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4589,6 +4666,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node8}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4684,6 +4762,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4710,6 +4789,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4736,6 +4816,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4762,6 +4843,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node37}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4856,6 +4938,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4934,8 +5017,8 @@ Phòng Ngủ MH2</title>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-191.22</pan>
-            <tilt>2.49</tilt>
+            <pan>-160.47</pan>
+            <tilt>-37.33</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4950,6 +5033,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node40}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4976,6 +5060,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4986,8 +5071,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-248.72</pan>
-            <tilt>-10.87</tilt>
+            <pan>-250</pan>
+            <tilt>-19.75</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5002,6 +5087,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node39}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5081,8 +5167,8 @@ Phòng Ngủ MH2</title>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-153.54</pan>
-            <tilt>2.82</tilt>
+            <pan>-152.65</pan>
+            <tilt>-14.89</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5097,6 +5183,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node38}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5123,6 +5210,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node41}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5133,8 +5221,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-76.65</pan>
-            <tilt>-0.76</tilt>
+            <pan>-76.17</pan>
+            <tilt>-4.24</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5149,6 +5237,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5243,6 +5332,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node38}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5322,8 +5412,8 @@ Phòng Ngủ MH2</title>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-0.77</pan>
-            <tilt>-34.86</tilt>
+            <pan>-0.69</pan>
+            <tilt>-34.85</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5338,6 +5428,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5364,6 +5455,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node39}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5374,8 +5466,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-181.96</pan>
-            <tilt>-10.2</tilt>
+            <pan>-177.15</pan>
+            <tilt>-15.18</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5390,6 +5482,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node42}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5495,8 +5588,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-358.37</pan>
-            <tilt>-12.82</tilt>
+            <pan>-0.27</pan>
+            <tilt>-40.26</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5511,6 +5604,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node43}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5685,8 +5779,8 @@ Phòng Ngủ MH2</title>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-347.02</pan>
-            <tilt>-24.33</tilt>
+            <pan>-355.4</pan>
+            <tilt>-57.41</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5701,6 +5795,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node45}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5727,6 +5822,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node46}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5848,6 +5944,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node44}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5874,6 +5971,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node46}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5969,6 +6067,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node44}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5995,6 +6094,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node47}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6091,6 +6191,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node44}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6117,6 +6218,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node15}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6221,8 +6323,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-293.29</pan>
-            <tilt>1.25</tilt>
+            <pan>-298.59</pan>
+            <tilt>-28.43</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6237,6 +6339,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node20}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6247,8 +6350,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-207.56</pan>
-            <tilt>3.02</tilt>
+            <pan>-206.49</pan>
+            <tilt>-22.17</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6263,6 +6366,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node23}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6383,6 +6487,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6393,8 +6498,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-270.66</pan>
-            <tilt>7.09</tilt>
+            <pan>-271.22</pan>
+            <tilt>7.13</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6409,6 +6514,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6435,6 +6541,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node10}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6445,8 +6552,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-178.27</pan>
-            <tilt>3.46</tilt>
+            <pan>-191.32</pan>
+            <tilt>-28.47</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6461,6 +6568,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node30}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6471,8 +6579,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-84.07</pan>
-            <tilt>6.57</tilt>
+            <pan>-80.9</pan>
+            <tilt>-25.7</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6487,6 +6595,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node26}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6581,6 +6690,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node51}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6607,6 +6717,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node52}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -12372,6 +12483,35 @@ Phòng Ngủ MH2</title>
       <translatepinnedmedia>1</translatepinnedmedia>
       <translationspath>translations</translationspath>
       <fovmode>diagonal</fovmode>
+      <backgroundsound>
+        <position>
+          <pan>-1</pan>
+          <tilt>-1</tilt>
+        </position>
+        <videorect/>
+        <type>audio</type>
+        <id>_background</id>
+        <filename>C:\Users\admin\Downloads\You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</filename>
+        <urlsafefilename>You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</urlsafefilename>
+        <mode>0</mode>
+        <nodechangekeep>1</nodechangekeep>
+        <locked>0</locked>
+        <pansize>10</pansize>
+        <tiltsize>10</tiltsize>
+        <fieldsize>90</fieldsize>
+        <ambientlevel>0</ambientlevel>
+        <startmutedmobile>0</startmutedmobile>
+        <level>1</level>
+        <loop>1</loop>
+        <copyfile>1</copyfile>
+        <permeable>0</permeable>
+        <altfile>
+          <filename>C:\Users\admin\Downloads\You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</filename>
+        </altfile>
+        <urlsafealtfile>
+          <filename>You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</filename>
+        </urlsafealtfile>
+      </backgroundsound>
       <translationsavailable>
         <value id="Project">vi-VN</value>
       </translationsavailable>
