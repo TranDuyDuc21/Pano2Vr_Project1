@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="20938" version="7.1.4">
+<pano2vrconfig version="7.1.4" rev="20938">
   <tour>
     <panorama>
       <id>node1</id>
@@ -47,7 +47,7 @@
         <longitude>105.499119</longitude>
         <altitude>54.71</altitude>
         <datetime>18/08/2023 2:56 CH</datetime>
-        <tags>1|2|banngay|trencao</tags>
+        <tags>1|2|banngay|trencao|xuahm</tags>
         <customprops/>
         <title>Trên Cao </title>
       </userdata>
@@ -379,7 +379,7 @@
         <longitude>105.498853</longitude>
         <altitude>56.07</altitude>
         <datetime>18/08/2023 3:13 CH</datetime>
-        <tags>banngay|beboi</tags>
+        <tags>banngay|beboi|xuahm</tags>
         <title>Bể Trên Cao </title>
       </userdata>
       <floorplans/>
@@ -413,8 +413,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-351.29</pan>
-            <tilt>-15.87</tilt>
+            <pan>-349.91</pan>
+            <tilt>-34.32</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -555,14 +555,14 @@
         <longitude>105.498842</longitude>
         <altitude>57.98</altitude>
         <datetime>18/08/2023 3:20 CH</datetime>
-        <tags>3|banngay|beboi|beboiday|daubeboi</tags>
+        <tags>3|banngay|beboi|beboiday|daubeboi|xuahm</tags>
         <title>Đầu Bể </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-193.84</pan>
+            <pan>-193.88</pan>
             <tilt>31.33</tilt>
             <fov>10</fov>
           </position>
@@ -589,8 +589,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-312.99</pan>
-            <tilt>-15.58</tilt>
+            <pan>-312.98</pan>
+            <tilt>-15.02</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -616,8 +616,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-334.81</pan>
-            <tilt>4.54</tilt>
+            <pan>-333.14</pan>
+            <tilt>2.13</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -705,15 +705,15 @@
         <longitude>105.498872</longitude>
         <altitude>57.61</altitude>
         <datetime>18/08/2023 3:22 CH</datetime>
-        <tags>4|banngay|loivao</tags>
+        <tags>4|banngay|loivao|xuahm</tags>
         <title>Lối Vào Tường Vi </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-275.64</pan>
-            <tilt>-8.98</tilt>
+            <pan>-276.78</pan>
+            <tilt>-19.31</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -739,8 +739,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-180.26</pan>
-            <tilt>-7.06</tilt>
+            <pan>-181.34</pan>
+            <tilt>-17.96</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -766,8 +766,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-99.55</pan>
-            <tilt>-8.81</tilt>
+            <pan>-99.31</pan>
+            <tilt>-16.91</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -793,8 +793,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-11.93</pan>
-            <tilt>-26.36</tilt>
+            <pan>-10.19</pan>
+            <tilt>-34.55</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -820,8 +820,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-10.4</pan>
-            <tilt>-1.47</tilt>
+            <pan>-9.9</pan>
+            <tilt>-6.45</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -937,15 +937,15 @@
         <longitude>105.498947</longitude>
         <altitude>58.64</altitude>
         <datetime>18/08/2023 3:23 CH</datetime>
-        <tags>5|trungtamngay</tags>
+        <tags>5|trungtamngay|xuahm</tags>
         <title>Trung Tâm </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-239.03</pan>
-            <tilt>-7.96</tilt>
+            <pan>-236.04</pan>
+            <tilt>-14.11</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -971,8 +971,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-213.7</pan>
-            <tilt>-12.16</tilt>
+            <pan>-199.04</pan>
+            <tilt>-19.5</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -998,8 +998,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-159.31</pan>
-            <tilt>-4.8</tilt>
+            <pan>-159.3</pan>
+            <tilt>-9.89</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1141,15 +1141,15 @@
         <longitude>105.499136</longitude>
         <altitude>57.32</altitude>
         <datetime>18/08/2023 3:24 CH</datetime>
-        <tags>6|loivaoday</tags>
+        <tags>6|loivaoday|xuahm</tags>
         <title>Lối Vào Homestay </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-67.21</pan>
-            <tilt>-5.45</tilt>
+            <pan>-66.18</pan>
+            <tilt>-22.73</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1175,8 +1175,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-110.05</pan>
-            <tilt>26.15</tilt>
+            <pan>-111</pan>
+            <tilt>31.5</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1229,8 +1229,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-242.74</pan>
-            <tilt>-20.32</tilt>
+            <pan>-238.77</pan>
+            <tilt>-36.33</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1318,15 +1318,15 @@
         <longitude>105.499211</longitude>
         <altitude>57.63</altitude>
         <datetime>18/08/2023 3:25 CH</datetime>
-        <tags>banngay|homestayday</tags>
+        <tags>banngay|homestayday|xuahm</tags>
         <title>Homestay </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-182.88</pan>
-            <tilt>-13.48</tilt>
+            <pan>-181.57</pan>
+            <tilt>-19.01</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1414,7 +1414,7 @@
         <longitude>105.499183</longitude>
         <altitude>57.78</altitude>
         <datetime>18/08/2023 3:25 CH</datetime>
-        <tags>aoca|banngay</tags>
+        <tags>aoca|banngay|xuahm</tags>
         <title>Ao Cá </title>
       </userdata>
       <floorplans/>
@@ -1448,8 +1448,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-236.22</pan>
-            <tilt>12.18</tilt>
+            <pan>-234.67</pan>
+            <tilt>18.72</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1537,15 +1537,15 @@
         <longitude>105.499581</longitude>
         <altitude>64.05</altitude>
         <datetime>18/08/2023 3:27 CH</datetime>
-        <tags>banngay|cong</tags>
+        <tags>banngay|cong|xuahm</tags>
         <title>Cổng Vào </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-311.76</pan>
-            <tilt>-28.6</tilt>
+            <pan>-311.65</pan>
+            <tilt>-32.51</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1633,15 +1633,15 @@
         <longitude>105.498997</longitude>
         <altitude>66.78</altitude>
         <datetime>18/08/2023 4:39 CH</datetime>
-        <tags>10|khugiaitriday</tags>
+        <tags>10|khugiaitriday|xuahm</tags>
         <title>Khu Giải Trí </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-62.89</pan>
-            <tilt>-13.4</tilt>
+            <pan>-62.62</pan>
+            <tilt>-6.66</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1656,7 +1656,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1667,8 +1667,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-206.6</pan>
-            <tilt>-16.14</tilt>
+            <pan>-203.11</pan>
+            <tilt>-21.7</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1694,8 +1694,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-295.66</pan>
-            <tilt>-9.13</tilt>
+            <pan>-298.86</pan>
+            <tilt>-8.75</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1783,14 +1783,14 @@
         <longitude>105.499092</longitude>
         <altitude>60.12</altitude>
         <datetime>18/08/2023 4:39 CH</datetime>
-        <tags>11</tags>
+        <tags>11|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-351.8</pan>
-            <tilt>-22.51</tilt>
+            <pan>-0.379987</pan>
+            <tilt>-21.91</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1816,8 +1816,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-200.93</pan>
-            <tilt>-17.8</tilt>
+            <pan>-198.75</pan>
+            <tilt>-22.91</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1843,8 +1843,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-98.55</pan>
-            <tilt>6.2</tilt>
+            <pan>-97.62</pan>
+            <tilt>6.91</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1870,8 +1870,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-192.65</pan>
-            <tilt>-4</tilt>
+            <pan>-190.67</pan>
+            <tilt>-6.81</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1987,7 +1987,7 @@
         <longitude>105.499064</longitude>
         <altitude>34.4</altitude>
         <datetime>18/08/2023 4:41 CH</datetime>
-        <tags>12</tags>
+        <tags>12|xuahm</tags>
         <title>Cửa Phòng Khách </title>
       </userdata>
       <floorplans/>
@@ -2037,7 +2037,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2048,8 +2048,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-351.13</pan>
-            <tilt>-33.56</tilt>
+            <pan>-350.62</pan>
+            <tilt>-48.97</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2137,7 +2137,7 @@
         <longitude>105.499347</longitude>
         <altitude>55.16</altitude>
         <datetime>18/08/2023 4:52 CH</datetime>
-        <tags>13|nhaco</tags>
+        <tags>13|nhaco|xuahm</tags>
         <title>Cổng Vào  Nhà Cổ </title>
       </userdata>
       <floorplans/>
@@ -2261,15 +2261,15 @@
         <longitude>105.499333</longitude>
         <altitude>58.41</altitude>
         <datetime>18/08/2023 4:53 CH</datetime>
-        <tags>14|nhaco</tags>
+        <tags>14|nhaco|xuahm</tags>
         <title>Cửa Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-269.54</pan>
-            <tilt>-21.47</tilt>
+            <pan>-269.19</pan>
+            <tilt>-15.73</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2295,8 +2295,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-86.05</pan>
-            <tilt>-36.88</tilt>
+            <pan>-87.03</pan>
+            <tilt>-40.56</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2384,15 +2384,15 @@
         <longitude>105.499456</longitude>
         <altitude>58.89</altitude>
         <datetime>18/08/2023 4:54 CH</datetime>
-        <tags>15|nhaco</tags>
+        <tags>15|nhaco|xuahm</tags>
         <title>Sân Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-303.37</pan>
-            <tilt>-5.78</tilt>
+            <pan>-306.75</pan>
+            <tilt>-16.34</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2407,6 +2407,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node14}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2533,15 +2534,15 @@
         <longitude>105.499514</longitude>
         <altitude>55.5</altitude>
         <datetime>18/08/2023 4:55 CH</datetime>
-        <tags>16|nhaco</tags>
+        <tags>16|nhaco|xuahm</tags>
         <title>Sân Trong Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-149.53</pan>
-            <tilt>-13.96</tilt>
+            <pan>-149.21</pan>
+            <tilt>-17.14</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2567,8 +2568,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-241.05</pan>
-            <tilt>-18.72</tilt>
+            <pan>-233.75</pan>
+            <tilt>-27.3</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2656,15 +2657,15 @@
         <longitude>105.499572</longitude>
         <altitude>59.86</altitude>
         <datetime>18/08/2023 4:55 CH</datetime>
-        <tags>17|nhaco</tags>
+        <tags>17|nhaco|xuahm</tags>
         <title>Bếp Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-218.64</pan>
-            <tilt>-30.32</tilt>
+            <pan>-218.68</pan>
+            <tilt>-32.84</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2752,7 +2753,7 @@
         <longitude>105.499028</longitude>
         <altitude>59.03</altitude>
         <datetime>18/08/2023 4:57 CH</datetime>
-        <tags>banngay</tags>
+        <tags>banngay|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2785,8 +2786,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-172.23</pan>
-            <tilt>-54.11</tilt>
+            <pan>-198.32</pan>
+            <tilt>-25.82</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2801,7 +2802,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node30}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2874,7 +2875,7 @@
         <longitude>105.499253</longitude>
         <altitude>67.85</altitude>
         <datetime>18/08/2023 7:49 CH</datetime>
-        <tags>banngay|phongkhach</tags>
+        <tags>banngay|phongkhach|xuahm</tags>
         <title>Bàn Ăn </title>
       </userdata>
       <floorplans/>
@@ -2935,8 +2936,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-311.97</pan>
-            <tilt>-16.58</tilt>
+            <pan>-313.97</pan>
+            <tilt>-5.81</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2951,7 +2952,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3024,15 +3025,15 @@
         <longitude>105.499106</longitude>
         <altitude>44.59</altitude>
         <datetime>19/08/2023 11:05 SA</datetime>
-        <tags>20|mh4</tags>
+        <tags>20|mh4|xuahm</tags>
         <title>Phòng Ngủ MH4</title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-83.62</pan>
-            <tilt>-12.99</tilt>
+            <pan>-82.26</pan>
+            <tilt>-9.73</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3058,8 +3059,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-30.28</pan>
-            <tilt>-16.62</tilt>
+            <pan>-37.82</pan>
+            <tilt>7.84</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3074,7 +3075,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node22}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3085,8 +3086,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-223.58</pan>
-            <tilt>-13.95</tilt>
+            <pan>-223.93</pan>
+            <tilt>-14.04</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3101,6 +3102,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node48}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3173,15 +3175,15 @@
         <longitude>105.499125</longitude>
         <altitude>51.28</altitude>
         <datetime>19/08/2023 11:05 SA</datetime>
-        <tags>21|banngay|dayandnight|mh4</tags>
+        <tags>21|banngay|dayandnight|mh4|xuahm</tags>
         <title>Phòng Tắm MH4</title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-75.06</pan>
-            <tilt>-40.77</tilt>
+            <pan>-70.23</pan>
+            <tilt>-42.41</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3269,15 +3271,15 @@
         <longitude>105.499117</longitude>
         <altitude>50.96</altitude>
         <datetime>19/08/2023 11:06 SA</datetime>
-        <tags>22|mh4</tags>
+        <tags>22|mh4|xuahm</tags>
         <title>Hành Lang MH4</title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-87</pan>
-            <tilt>-26.63</tilt>
+            <pan>-86.8</pan>
+            <tilt>-26.54</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3319,7 +3321,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node20}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3392,7 +3394,7 @@
         <longitude>105.499047</longitude>
         <altitude>63.22</altitude>
         <datetime>19/08/2023 11:14 SA</datetime>
-        <tags>23|mh3</tags>
+        <tags>23|mh3|xuahm</tags>
         <title>Phòng Ngủ MH3 </title>
       </userdata>
       <floorplans/>
@@ -3415,6 +3417,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node48}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3425,8 +3428,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-181.41</pan>
-            <tilt>-11.42</tilt>
+            <pan>-187.07</pan>
+            <tilt>8.4</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3441,7 +3444,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node24}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3514,15 +3517,15 @@
         <longitude>105.499092</longitude>
         <altitude>43.24</altitude>
         <datetime>19/08/2023 11:15 SA</datetime>
-        <tags>24|mh3</tags>
+        <tags>24|mh3|xuahm</tags>
         <title>Bên Trong Mộc Hương 3 </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-310.2</pan>
-            <tilt>-16.05</tilt>
+            <pan>-312.62</pan>
+            <tilt>5.33</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3537,7 +3540,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node23}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3548,8 +3551,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-69.4</pan>
-            <tilt>-8.75</tilt>
+            <pan>-68.23</pan>
+            <tilt>-43.57</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3564,6 +3567,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node25}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3636,15 +3640,15 @@
         <longitude>105.499036</longitude>
         <altitude>52.09</altitude>
         <datetime>19/08/2023 11:15 SA</datetime>
-        <tags>25|mh3</tags>
+        <tags>25|mh3|xuahm</tags>
         <title>Hành Lang MH3</title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-214.67</pan>
-            <tilt>-26.94</tilt>
+            <pan>-210.18</pan>
+            <tilt>11.28</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3659,7 +3663,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node24}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3732,7 +3736,7 @@
         <longitude>105.498869</longitude>
         <altitude>58.58</altitude>
         <datetime>19/08/2023 11:22 SA</datetime>
-        <tags>26|mh1</tags>
+        <tags>26|mh1|xuahm</tags>
         <title>Phòng Ngủ MH1</title>
       </userdata>
       <floorplans/>
@@ -3755,6 +3759,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node49}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3765,8 +3770,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-346.05</pan>
-            <tilt>-12</tilt>
+            <pan>-344.16</pan>
+            <tilt>7.91</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3781,7 +3786,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node27}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3854,15 +3859,15 @@
         <longitude>105.499092</longitude>
         <altitude>51.38</altitude>
         <datetime>19/08/2023 11:23 SA</datetime>
-        <tags>27|mh1</tags>
+        <tags>27|mh1|xuahm</tags>
         <title>Hành Lang MH1</title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-139.07</pan>
-            <tilt>-10.22</tilt>
+            <pan>-141.47</pan>
+            <tilt>-45.35</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3888,8 +3893,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-210.43</pan>
-            <tilt>4.32</tilt>
+            <pan>-213</pan>
+            <tilt>10.45</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3904,7 +3909,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node26}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3977,15 +3982,15 @@
         <longitude>105.499067</longitude>
         <altitude>52.67</altitude>
         <datetime>19/08/2023 11:24 SA</datetime>
-        <tags>28|mh1</tags>
+        <tags>28|mh1|xuahm</tags>
         <title>Phòng Tắm MH1 </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-195.83</pan>
-            <tilt>-31.94</tilt>
+            <pan>-193.47</pan>
+            <tilt>-52.33</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4073,7 +4078,7 @@
         <longitude>105.499164</longitude>
         <altitude>45.62</altitude>
         <datetime>19/08/2023 11:26 SA</datetime>
-        <tags>30|mh2</tags>
+        <tags>30|mh2|xuahm</tags>
         <title>
 Phòng Ngủ MH2</title>
       </userdata>
@@ -4097,7 +4102,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node32}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4124,6 +4129,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node49}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4134,8 +4140,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-225.06</pan>
-            <tilt>-9.76</tilt>
+            <pan>-224.63</pan>
+            <tilt>-37.91</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4223,15 +4229,15 @@ Phòng Ngủ MH2</title>
         <longitude>105.499056</longitude>
         <altitude>52.79</altitude>
         <datetime>19/08/2023 11:27 SA</datetime>
-        <tags>32|mh2</tags>
+        <tags>32|mh2|xuahm</tags>
         <title>Hành Lang MH2</title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-207.53</pan>
-            <tilt>4.61</tilt>
+            <pan>-210.52</pan>
+            <tilt>10.45</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4246,7 +4252,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node30}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4345,15 +4351,15 @@ Phòng Ngủ MH2</title>
         <longitude>105.499250</longitude>
         <altitude>51.3</altitude>
         <datetime>19/08/2023 11:29 SA</datetime>
-        <tags>33|phongkhach</tags>
+        <tags>33|phongkhach|xuahm</tags>
         <title>Phòng Khách </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-253.2</pan>
-            <tilt>-6.19</tilt>
+            <pan>-251.4</pan>
+            <tilt>-16.43</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4405,8 +4411,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-12.51</pan>
-            <tilt>-7.67</tilt>
+            <pan>-10.49</pan>
+            <tilt>-23.26</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4432,8 +4438,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-45.42</pan>
-            <tilt>-12.66</tilt>
+            <pan>-47.56</pan>
+            <tilt>2.31</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4448,6 +4454,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4520,15 +4527,15 @@ Phòng Ngủ MH2</title>
         <longitude>105.499311</longitude>
         <altitude>50.8</altitude>
         <datetime>19/08/2023 11:30 SA</datetime>
-        <tags>34|phongkhach</tags>
+        <tags>34|phongkhach|xuahm</tags>
         <title>Phòng Bếp </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-88.87</pan>
-            <tilt>-39.74</tilt>
+            <pan>-89.32</pan>
+            <tilt>-44.72</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4616,7 +4623,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499247</longitude>
         <altitude>55.19</altitude>
         <datetime>19/08/2023 11:30 SA</datetime>
-        <tags>35|phongkhach</tags>
+        <tags>35|phongkhach|xuahm</tags>
         <title>Bàn Trà </title>
       </userdata>
       <floorplans/>
@@ -4639,7 +4646,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node33}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4740,14 +4747,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498950</longitude>
         <altitude>61.33</altitude>
         <datetime>19/08/2023 11:32 SA</datetime>
-        <tags>36</tags>
+        <tags>36|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-87.68</pan>
-            <tilt>-7.02</tilt>
+            <pan>-88.13</pan>
+            <tilt>-9.54</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4800,8 +4807,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-262.46</pan>
-            <tilt>-12.81</tilt>
+            <pan>-265.47</pan>
+            <tilt>-17.72</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4916,14 +4923,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498825</longitude>
         <altitude>58.82</altitude>
         <datetime>19/08/2023 11:33 SA</datetime>
-        <tags>37</tags>
+        <tags>37|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-93.67</pan>
-            <tilt>-9.38</tilt>
+            <pan>-90.95</pan>
+            <tilt>-19.81</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5011,14 +5018,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498806</longitude>
         <altitude>58.92</altitude>
         <datetime>19/08/2023 11:34 SA</datetime>
-        <tags>38</tags>
+        <tags>38|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-160.47</pan>
-            <tilt>-37.33</tilt>
+            <pan>-162.21</pan>
+            <tilt>-23.5</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5044,8 +5051,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-358.9</pan>
-            <tilt>-7.09</tilt>
+            <pan>-358.44</pan>
+            <tilt>-14</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5071,8 +5078,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-250</pan>
-            <tilt>-19.75</tilt>
+            <pan>-249.91</pan>
+            <tilt>-28.34</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5160,15 +5167,15 @@ Phòng Ngủ MH2</title>
         <longitude>105.498806</longitude>
         <altitude>58.92</altitude>
         <datetime>19/08/2023 11:35 SA</datetime>
-        <tags>39</tags>
+        <tags>39|xuahm</tags>
         <title>Cuối Bể </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-152.65</pan>
-            <tilt>-14.89</tilt>
+            <pan>-152.86</pan>
+            <tilt>-17.91</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5194,8 +5201,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-104.59</pan>
-            <tilt>6.34</tilt>
+            <pan>-105.16</pan>
+            <tilt>12.93</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5310,14 +5317,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498803</longitude>
         <altitude>56.57</altitude>
         <datetime>19/08/2023 11:36 SA</datetime>
-        <tags>40</tags>
+        <tags>40|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-155.97</pan>
-            <tilt>-21.38</tilt>
+            <pan>-155.44</pan>
+            <tilt>-41.81</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5405,7 +5412,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.498875</longitude>
         <altitude>58.89</altitude>
         <datetime>19/08/2023 11:36 SA</datetime>
-        <tags>41|tv1</tags>
+        <tags>41|tv1|xuahm</tags>
         <title>Hành Lang TV1</title>
       </userdata>
       <floorplans/>
@@ -5555,7 +5562,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.498856</longitude>
         <altitude>57.34</altitude>
         <datetime>19/08/2023 11:38 SA</datetime>
-        <tags>42|tv1</tags>
+        <tags>42|tv1|xuahm</tags>
         <title>Phòng Ngủ TV1</title>
       </userdata>
       <floorplans/>
@@ -5588,8 +5595,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.27</pan>
-            <tilt>-40.26</tilt>
+            <pan>-3.31</pan>
+            <tilt>-43.29</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5677,15 +5684,15 @@ Phòng Ngủ MH2</title>
         <longitude>105.498856</longitude>
         <altitude>57.34</altitude>
         <datetime>19/08/2023 11:38 SA</datetime>
-        <tags>43|tv1</tags>
+        <tags>43|tv1|xuahm</tags>
         <title>Phòng Tắm TV1 </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-181.44</pan>
-            <tilt>-12.45</tilt>
+            <pan>-187.08</pan>
+            <tilt>-53.99</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5700,6 +5707,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node42}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5772,7 +5780,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499664</longitude>
         <altitude>47.84</altitude>
         <datetime>19/08/2023 11:59 SA</datetime>
-        <tags>44|nhaco</tags>
+        <tags>44|nhaco|xuahm</tags>
         <title>Trong Nhà Cổ</title>
       </userdata>
       <floorplans/>
@@ -5806,8 +5814,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-326.76</pan>
-            <tilt>-2.06</tilt>
+            <pan>-326.49</pan>
+            <tilt>4.32</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5822,7 +5830,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node46}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5833,8 +5841,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-63.79</pan>
-            <tilt>-21.63</tilt>
+            <pan>-62.46</pan>
+            <tilt>-42.87</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5849,6 +5857,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node15}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -5921,15 +5930,15 @@ Phòng Ngủ MH2</title>
         <longitude>105.499556</longitude>
         <altitude>54.67</altitude>
         <datetime>19/08/2023 12:00 CH</datetime>
-        <tags>45|nhaco</tags>
+        <tags>45|nhaco|xuahm</tags>
         <title>Giữa Nhà Cổ</title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-195.36</pan>
-            <tilt>-11.34</tilt>
+            <pan>-195.28</pan>
+            <tilt>-47.1</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5955,8 +5964,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-284.74</pan>
-            <tilt>-6.29</tilt>
+            <pan>-285.92</pan>
+            <tilt>-43.14</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6044,7 +6053,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499553</longitude>
         <altitude>54.35</altitude>
         <datetime>19/08/2023 12:01 CH</datetime>
-        <tags>46|nhaco</tags>
+        <tags>46|nhaco|xuahm</tags>
         <title>Đồ Cổ </title>
       </userdata>
       <floorplans/>
@@ -6067,7 +6076,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node44}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6094,7 +6103,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node47}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6168,15 +6177,15 @@ Phòng Ngủ MH2</title>
         <longitude>105.499586</longitude>
         <altitude>55.38</altitude>
         <datetime>19/08/2023 12:02 CH</datetime>
-        <tags>47|nhaco</tags>
+        <tags>47|nhaco|xuahm</tags>
         <title>Hiên Nhà Cổ </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-280.83</pan>
-            <tilt>8.18</tilt>
+            <pan>-285.04</pan>
+            <tilt>-53.09</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6218,7 +6227,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node15}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6291,7 +6300,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499025</longitude>
         <altitude>44.39</altitude>
         <datetime>19/08/2023 12:06 CH</datetime>
-        <tags>48|banngay|dayandnight</tags>
+        <tags>48|banngay|dayandnight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6323,8 +6332,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-298.59</pan>
-            <tilt>-28.43</tilt>
+            <pan>-264.09</pan>
+            <tilt>-21.18</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6350,8 +6359,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-206.49</pan>
-            <tilt>-22.17</tilt>
+            <pan>-234.4</pan>
+            <tilt>-18.82</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6393,6 +6402,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6465,7 +6475,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499092</longitude>
         <altitude>57.52</altitude>
         <datetime>19/08/2023 12:07 CH</datetime>
-        <tags>49|banngay|dayandnight</tags>
+        <tags>49|banngay|dayandnight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6525,8 +6535,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-53.55</pan>
-            <tilt>-8.04</tilt>
+            <pan>-43.06</pan>
+            <tilt>-23.05</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6552,8 +6562,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-191.32</pan>
-            <tilt>-28.47</tilt>
+            <pan>-147.42</pan>
+            <tilt>-19.31</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6579,8 +6589,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-80.9</pan>
-            <tilt>-25.7</tilt>
+            <pan>-118.97</pan>
+            <tilt>-19.89</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6668,7 +6678,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499142</longitude>
         <altitude>52.37</altitude>
         <datetime>29/08/2023 6:48 CH</datetime>
-        <tags>51</tags>
+        <tags>51|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6690,7 +6700,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node51}</url>
-          <skinid>floor_hotspot</skinid>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6701,8 +6711,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-277.11</pan>
-            <tilt>-11.57</tilt>
+            <pan>-281.52</pan>
+            <tilt>-32.82</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6816,14 +6826,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:49 CH</datetime>
-        <tags>52</tags>
+        <tags>52|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-121.18</pan>
-            <tilt>-6.07</tilt>
+            <pan>-121.38</pan>
+            <tilt>-25.72</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6838,6 +6848,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node52}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6848,8 +6859,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-163.08</pan>
-            <tilt>3.58</tilt>
+            <pan>-166.25</pan>
+            <tilt>8.75</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6864,6 +6875,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node50}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -6936,14 +6948,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:50 CH</datetime>
-        <tags>53|bandem|dayandnight</tags>
+        <tags>53|bandem|dayandnight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-145.87</pan>
-            <tilt>-10.82</tilt>
+            <pan>-133.82</pan>
+            <tilt>-46.78</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6958,6 +6970,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node50}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7030,7 +7043,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:52 CH</datetime>
-        <tags>54</tags>
+        <tags>54|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7052,6 +7065,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node54}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7062,8 +7076,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-112.11</pan>
-            <tilt>2.06</tilt>
+            <pan>-111.79</pan>
+            <tilt>13.84</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7078,6 +7092,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node54}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7088,8 +7103,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-225.63</pan>
-            <tilt>-6.03</tilt>
+            <pan>-221.92</pan>
+            <tilt>-5.84</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7104,6 +7119,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node57}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7176,14 +7192,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:52 CH</datetime>
-        <tags>55</tags>
+        <tags>55|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-242.89</pan>
-            <tilt>-10.38</tilt>
+            <pan>-241.34</pan>
+            <tilt>-37.25</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7198,6 +7214,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node56}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7208,8 +7225,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-313.05</pan>
-            <tilt>3.98</tilt>
+            <pan>-313.13</pan>
+            <tilt>8.16</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7224,6 +7241,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node53}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7234,8 +7252,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-39.81</pan>
-            <tilt>-10.14</tilt>
+            <pan>-48.05</pan>
+            <tilt>-36.55</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7250,6 +7268,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node55}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7322,7 +7341,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:54 CH</datetime>
-        <tags>56</tags>
+        <tags>56|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7344,6 +7363,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node53}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7354,8 +7374,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-308.59</pan>
-            <tilt>-3.9</tilt>
+            <pan>-308.44</pan>
+            <tilt>-24.4</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7370,6 +7390,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node56}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7396,6 +7417,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node57}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7468,14 +7490,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:55 CH</datetime>
-        <tags>bandem|dayandnight</tags>
+        <tags>bandem|dayandnight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-29.92</pan>
-            <tilt>-12.02</tilt>
+            <pan>-21.89</pan>
+            <tilt>-53.74</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7490,6 +7512,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node55}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7562,14 +7585,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:56 CH</datetime>
-        <tags>58</tags>
+        <tags>58|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-48.91</pan>
-            <tilt>10.11</tilt>
+            <pan>-18.5</pan>
+            <tilt>-17.93</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7584,6 +7607,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node50}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7594,8 +7618,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-307.54</pan>
-            <tilt>9.19</tilt>
+            <pan>-343.24</pan>
+            <tilt>-17.94</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7610,6 +7634,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node53}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7620,8 +7645,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-267.87</pan>
-            <tilt>-8.92</tilt>
+            <pan>-267.88</pan>
+            <tilt>-12.13</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7636,6 +7661,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node58}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7708,14 +7734,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:57 CH</datetime>
-        <tags>59</tags>
+        <tags>59|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-86.75</pan>
-            <tilt>-8.25</tilt>
+            <pan>-86.53</pan>
+            <tilt>-25.32</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7730,6 +7756,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node57}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7756,6 +7783,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node66}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7766,8 +7794,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-286.29</pan>
-            <tilt>-9.21</tilt>
+            <pan>-285.55</pan>
+            <tilt>-13.01</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7782,6 +7810,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node59}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7792,8 +7821,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-273.56</pan>
-            <tilt>-0.43</tilt>
+            <pan>-273.74</pan>
+            <tilt>-3.88</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7808,6 +7837,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node80}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7880,14 +7910,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499200</longitude>
         <altitude>53.85</altitude>
         <datetime>29/08/2023 6:58 CH</datetime>
-        <tags>60</tags>
+        <tags>60|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-77.2</pan>
-            <tilt>-8.26</tilt>
+            <pan>-76.94</pan>
+            <tilt>-8.25</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7902,6 +7932,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node58}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7928,6 +7959,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node66}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7938,8 +7970,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-28.74</pan>
-            <tilt>10.29</tilt>
+            <pan>-2.21</pan>
+            <tilt>-13.36</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7954,6 +7986,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node63}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7964,8 +7997,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-303.39</pan>
-            <tilt>7.51</tilt>
+            <pan>-331.85</pan>
+            <tilt>-14.68</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7980,6 +8013,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node60}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -7990,8 +8024,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-277.07</pan>
-            <tilt>0.78</tilt>
+            <pan>-268.79</pan>
+            <tilt>-14.6</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8006,6 +8040,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node80}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8078,14 +8113,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 6:59 CH</datetime>
-        <tags>61</tags>
+        <tags>61|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-238.09</pan>
-            <tilt>6.31</tilt>
+            <pan>-235.43</pan>
+            <tilt>9</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8100,6 +8135,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node61}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8126,6 +8162,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node59}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8198,14 +8235,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:00 CH</datetime>
-        <tags>62</tags>
+        <tags>62|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-178.18</pan>
-            <tilt>11.01</tilt>
+            <pan>-182.88</pan>
+            <tilt>11.09</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8220,6 +8257,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node60}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8230,8 +8268,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-130.99</pan>
-            <tilt>-5.88</tilt>
+            <pan>-132.38</pan>
+            <tilt>-34.97</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8246,6 +8284,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node62}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8318,14 +8357,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:01 CH</datetime>
-        <tags>63</tags>
+        <tags>63|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-171.33</pan>
-            <tilt>-8.38</tilt>
+            <pan>-171.41</pan>
+            <tilt>-41.85</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8340,6 +8379,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node61}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8412,7 +8452,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:02 CH</datetime>
-        <tags>64</tags>
+        <tags>64|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8434,6 +8474,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node64}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8444,8 +8485,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-99.14</pan>
-            <tilt>-3.26</tilt>
+            <pan>-100.78</pan>
+            <tilt>-31.73</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8460,6 +8501,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node65}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8486,6 +8528,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node59}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8558,7 +8601,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:03 CH</datetime>
-        <tags>65|bandem|dayandnight</tags>
+        <tags>65|bandem|dayandnight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -8580,6 +8623,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node63}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8652,15 +8696,15 @@ Phòng Ngủ MH2</title>
         <longitude>105.499078</longitude>
         <altitude>61.91</altitude>
         <datetime>29/08/2023 7:04 CH</datetime>
-        <tags>bandem|mh2</tags>
+        <tags>bandem|mh2|xuahm</tags>
         <title>Phòng Tắm </title>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-184.83</pan>
-            <tilt>-6.99</tilt>
+            <pan>-184.43</pan>
+            <tilt>-62.15</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8675,6 +8719,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node30}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8747,14 +8792,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499175</longitude>
         <altitude>40.59</altitude>
         <datetime>29/08/2023 7:05 CH</datetime>
-        <tags>67</tags>
+        <tags>67|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-186.12</pan>
-            <tilt>-25.35</tilt>
+            <pan>-193.23</pan>
+            <tilt>-36.99</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8769,6 +8814,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node67}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8795,6 +8841,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node58}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8867,14 +8914,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499217</longitude>
         <altitude>37.75</altitude>
         <datetime>29/08/2023 7:06 CH</datetime>
-        <tags>68</tags>
+        <tags>68|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-227.96</pan>
-            <tilt>-4.76</tilt>
+            <pan>-228.24</pan>
+            <tilt>-20.73</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8889,6 +8936,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node68}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8899,8 +8947,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-123.7</pan>
-            <tilt>-5.3</tilt>
+            <pan>-123.23</pan>
+            <tilt>-8.36</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -8915,6 +8963,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node69}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -8941,6 +8990,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node66}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9013,14 +9063,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499217</longitude>
         <altitude>37.75</altitude>
         <datetime>29/08/2023 7:06 CH</datetime>
-        <tags>69</tags>
+        <tags>69|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-169.5</pan>
-            <tilt>-16.15</tilt>
+            <pan>-168.63</pan>
+            <tilt>-32.01</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -9035,6 +9085,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node67}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9107,7 +9158,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499311</longitude>
         <altitude>47.49</altitude>
         <datetime>29/08/2023 7:07 CH</datetime>
-        <tags>70</tags>
+        <tags>70|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9129,6 +9180,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node67}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9201,7 +9253,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499361</longitude>
         <altitude>50.68</altitude>
         <datetime>29/08/2023 7:08 CH</datetime>
-        <tags>71</tags>
+        <tags>71|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9223,6 +9275,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node71}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9249,6 +9302,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node69}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9321,14 +9375,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499361</longitude>
         <altitude>51.65</altitude>
         <datetime>29/08/2023 7:09 CH</datetime>
-        <tags>72</tags>
+        <tags>72|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-49.36</pan>
-            <tilt>-10.23</tilt>
+            <pan>-48.3</pan>
+            <tilt>-16</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -9343,6 +9397,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node72}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9353,8 +9408,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-225.23</pan>
-            <tilt>-6.61</tilt>
+            <pan>-227.46</pan>
+            <tilt>-20.43</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -9369,6 +9424,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node70}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9441,7 +9497,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499450</longitude>
         <altitude>49.93</altitude>
         <datetime>29/08/2023 7:10 CH</datetime>
-        <tags>73</tags>
+        <tags>73|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9463,6 +9519,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node73}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9473,8 +9530,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-351.96</pan>
-            <tilt>2</tilt>
+            <pan>-355.62</pan>
+            <tilt>-2.19</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -9489,6 +9546,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node76}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9499,8 +9557,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-146.7</pan>
-            <tilt>-10.73</tilt>
+            <pan>-149.56</pan>
+            <tilt>-43</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -9515,6 +9573,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node71}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9587,14 +9646,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499450</longitude>
         <altitude>49.93</altitude>
         <datetime>29/08/2023 7:10 CH</datetime>
-        <tags>74</tags>
+        <tags>74|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-125.33</pan>
-            <tilt>0.87</tilt>
+            <pan>-128.98</pan>
+            <tilt>-15.97</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -9609,6 +9668,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node72}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9619,8 +9679,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-230.92</pan>
-            <tilt>-5.06</tilt>
+            <pan>-225.24</pan>
+            <tilt>-19.04</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -9635,6 +9695,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node74}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9707,14 +9768,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499572</longitude>
         <altitude>52.26</altitude>
         <datetime>29/08/2023 7:12 CH</datetime>
-        <tags>75</tags>
+        <tags>75|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-182.35</pan>
-            <tilt>-16.06</tilt>
+            <pan>-182.65</pan>
+            <tilt>-18.11</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -9729,6 +9790,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node73}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9801,7 +9863,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499533</longitude>
         <altitude>51.52</altitude>
         <datetime>29/08/2023 7:12 CH</datetime>
-        <tags>76</tags>
+        <tags>76|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9823,6 +9885,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node73}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9849,6 +9912,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node72}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9921,7 +9985,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499503</longitude>
         <altitude>52.99</altitude>
         <datetime>29/08/2023 7:13 CH</datetime>
-        <tags>77</tags>
+        <tags>77|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -9953,8 +10017,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-193.7</pan>
-            <tilt>-22.93</tilt>
+            <pan>-193.06</pan>
+            <tilt>-39.28</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -9969,6 +10033,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node77}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -9995,6 +10060,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node78}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10067,14 +10133,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499525</longitude>
         <altitude>52.75</altitude>
         <datetime>29/08/2023 7:13 CH</datetime>
-        <tags>78</tags>
+        <tags>78|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-290.25</pan>
-            <tilt>6.32</tilt>
+            <pan>-295.02</pan>
+            <tilt>8.92</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10089,6 +10155,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node76}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10115,6 +10182,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node78}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10187,7 +10255,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.499519</longitude>
         <altitude>52.41</altitude>
         <datetime>29/08/2023 7:14 CH</datetime>
-        <tags>79</tags>
+        <tags>79|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -10209,6 +10277,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node75}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10235,6 +10304,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node76}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10307,14 +10377,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499075</longitude>
         <altitude>50.59</altitude>
         <datetime>29/08/2023 7:18 CH</datetime>
-        <tags>bandem|trungtamdem</tags>
+        <tags>bandem|trungtamdem|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-18.39</pan>
-            <tilt>-0.12</tilt>
+            <pan>-16.3</pan>
+            <tilt>-6.54</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10329,6 +10399,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node81}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10339,8 +10410,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-192.71</pan>
-            <tilt>-4.35</tilt>
+            <pan>-193.61</pan>
+            <tilt>-12.35</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10355,6 +10426,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node83}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10365,8 +10437,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-233.23</pan>
-            <tilt>-3.02</tilt>
+            <pan>-227.41</pan>
+            <tilt>-17.82</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10381,6 +10453,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node80}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10391,8 +10464,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-267.82</pan>
-            <tilt>-6.07</tilt>
+            <pan>-263.1</pan>
+            <tilt>-12.34</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10407,6 +10480,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node58}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10479,14 +10553,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498983</longitude>
         <altitude>47.91</altitude>
         <datetime>29/08/2023 7:19 CH</datetime>
-        <tags>81|khugiaitrinight</tags>
+        <tags>81|khugiaitrinight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-295.27</pan>
-            <tilt>-5.16</tilt>
+            <pan>-293.64</pan>
+            <tilt>-10.58</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10501,6 +10575,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node79}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10511,8 +10586,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-195.14</pan>
-            <tilt>-4.01</tilt>
+            <pan>-195.79</pan>
+            <tilt>-21.21</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10527,6 +10602,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node58}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10553,6 +10629,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node83}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10625,14 +10702,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499178</longitude>
         <altitude>50.33</altitude>
         <datetime>29/08/2023 7:20 CH</datetime>
-        <tags>bandem|loivaonight</tags>
+        <tags>bandem|loivaonight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-199.12</pan>
-            <tilt>-3.16</tilt>
+            <pan>-200.39</pan>
+            <tilt>-14.35</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10647,6 +10724,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node79}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10657,8 +10735,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-293.03</pan>
-            <tilt>-7.81</tilt>
+            <pan>-280.62</pan>
+            <tilt>-26.9</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10673,6 +10751,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node82}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10745,14 +10824,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.499217</longitude>
         <altitude>51.49</altitude>
         <datetime>29/08/2023 7:21 CH</datetime>
-        <tags>bandem|homestaynight</tags>
+        <tags>bandem|homestaynight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-147.35</pan>
-            <tilt>-10.01</tilt>
+            <pan>-144.9</pan>
+            <tilt>-19.8</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10767,6 +10846,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node81}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10839,7 +10919,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.498919</longitude>
         <altitude>48.35</altitude>
         <datetime>29/08/2023 7:25 CH</datetime>
-        <tags>84</tags>
+        <tags>84|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -10861,6 +10941,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node79}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10871,8 +10952,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-192.29</pan>
-            <tilt>-6.81</tilt>
+            <pan>-194.98</pan>
+            <tilt>-17.85</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -10887,6 +10968,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node84}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10913,32 +10995,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node91}</url>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-141.92</pan>
-            <tilt>18.03</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point04</id>
-          <title>$(ut)</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node86}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10966,6 +11023,7 @@ Phòng Ngủ MH2</title>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
           <target>$fwd</target>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11038,14 +11096,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498792</longitude>
         <altitude>46.64</altitude>
         <datetime>29/08/2023 7:25 CH</datetime>
-        <tags>85</tags>
+        <tags>85|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-173.95</pan>
-            <tilt>2.43</tilt>
+            <pan>-151.71</pan>
+            <tilt>-29.41</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11060,6 +11118,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node85}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11070,8 +11129,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-213.17</pan>
-            <tilt>-8.81</tilt>
+            <pan>-215.61</pan>
+            <tilt>-16.45</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11086,6 +11145,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node95}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11096,8 +11156,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-347.9</pan>
-            <tilt>-5.72</tilt>
+            <pan>-348.68</pan>
+            <tilt>-12.15</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11112,6 +11172,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node83}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11184,14 +11245,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498764</longitude>
         <altitude>51.32</altitude>
         <datetime>29/08/2023 7:27 CH</datetime>
-        <tags>86</tags>
+        <tags>86|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-238.64</pan>
-            <tilt>-17.53</tilt>
+            <pan>-295.62</pan>
+            <tilt>-50.3</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11206,6 +11267,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node84}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11278,14 +11340,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498789</longitude>
         <altitude>46.96</altitude>
         <datetime>29/08/2023 7:28 CH</datetime>
-        <tags>87</tags>
+        <tags>87|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-298.63</pan>
-            <tilt>-10.55</tilt>
+            <pan>-298.26</pan>
+            <tilt>-21.57</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11300,6 +11362,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node83}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11326,6 +11389,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node87}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11352,6 +11416,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node89}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11424,7 +11489,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.498756</longitude>
         <altitude>46.9</altitude>
         <datetime>29/08/2023 7:28 CH</datetime>
-        <tags>bandem|dayandnight</tags>
+        <tags>bandem|dayandnight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11446,6 +11511,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node86}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11456,8 +11522,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-270.31</pan>
-            <tilt>-2.87</tilt>
+            <pan>-285.46</pan>
+            <tilt>-46.26</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11472,6 +11538,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node88}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11544,14 +11611,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498736</longitude>
         <altitude>47.34</altitude>
         <datetime>29/08/2023 7:29 CH</datetime>
-        <tags>bandem|dayandnight</tags>
+        <tags>bandem|dayandnight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-356.44</pan>
-            <tilt>-11.01</tilt>
+            <pan>-355.61</pan>
+            <tilt>-44</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11566,6 +11633,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node87}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11638,14 +11706,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498769</longitude>
         <altitude>47.22</altitude>
         <datetime>29/08/2023 7:30 CH</datetime>
-        <tags>bandem|dayandnight</tags>
+        <tags>bandem|dayandnight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-74.82</pan>
-            <tilt>-7.48</tilt>
+            <pan>-68.65</pan>
+            <tilt>8.35</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11660,6 +11728,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node86}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11670,8 +11739,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-219.49</pan>
-            <tilt>6.68</tilt>
+            <pan>-226.48</pan>
+            <tilt>-47.6</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11686,6 +11755,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node90}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11758,14 +11828,14 @@ Phòng Ngủ MH2</title>
         <longitude>105.498758</longitude>
         <altitude>45.96</altitude>
         <datetime>29/08/2023 7:30 CH</datetime>
-        <tags>bandem|dayandnight</tags>
+        <tags>bandem|dayandnight|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-188.02</pan>
-            <tilt>-8.44</tilt>
+            <pan>-188.86</pan>
+            <tilt>-55.38</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11780,6 +11850,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node89}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11852,7 +11923,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.498828</longitude>
         <altitude>46.13</altitude>
         <datetime>29/08/2023 7:31 CH</datetime>
-        <tags>92</tags>
+        <tags>92|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -11874,6 +11945,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node95}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11884,8 +11956,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-133.96</pan>
-            <tilt>-26.1</tilt>
+            <pan>-131.65</pan>
+            <tilt>-33.57</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11900,6 +11972,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node94}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11910,8 +11983,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-311.74</pan>
-            <tilt>-12.14</tilt>
+            <pan>-299.04</pan>
+            <tilt>-47</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -11926,6 +11999,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node92}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -11998,7 +12072,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.498833</longitude>
         <altitude>47.59</altitude>
         <datetime>29/08/2023 7:31 CH</datetime>
-        <tags>93</tags>
+        <tags>93|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -12118,7 +12192,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.498758</longitude>
         <altitude>55.7</altitude>
         <datetime>29/08/2023 7:35 CH</datetime>
-        <tags>94</tags>
+        <tags>94|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -12212,7 +12286,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.498858</longitude>
         <altitude>49.95</altitude>
         <datetime>29/08/2023 7:36 CH</datetime>
-        <tags>beboinight</tags>
+        <tags>beboinight|xuahm</tags>
         <title>Đầu Bể Đêm</title>
       </userdata>
       <floorplans/>
@@ -12359,7 +12433,7 @@ Phòng Ngủ MH2</title>
         <longitude>105.498856</longitude>
         <altitude>48.09</altitude>
         <datetime>29/08/2023 7:37 CH</datetime>
-        <tags>96</tags>
+        <tags>96|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -12381,6 +12455,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node94}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -12407,6 +12482,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node91}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -12417,8 +12493,8 @@ Phòng Ngủ MH2</title>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-13.22</pan>
-            <tilt>0.64</tilt>
+            <pan>-11.59</pan>
+            <tilt>-20.17</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -12433,6 +12509,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node84}</url>
+          <skinid>floor_hotspot</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -12548,7 +12625,9 @@ Phòng Ngủ MH2</title>
           <enabled>1</enabled>
           <delay>1</delay>
           <useAnimation>1</useAnimation>
-          <horizonfromdefview>0</horizonfromdefview>
+          <horizonfromdefview>1</horizonfromdefview>
+          <nodedelay>20</nodedelay>
+          <nodefilter>xuahm</nodefilter>
         </autorotate>
         <soundstransition/>
         <flyintransition>
@@ -12569,6 +12648,7 @@ Phòng Ngủ MH2</title>
           <value id="vis_thumbnail_menu">true</value>
         </skinconfiguration>
         <skintablesconfiguration>
+          <value id="Categories">trencao|Trên Cao |\beboi|Bể Bơi |\aoca|Ao Cá |\loivao|Lối Vào |\nhaco|Nhà Cổ |\khugiaitri|Khu Giải Trí |\mh4|Mộc Hương 4 |\mh3|Mộc Hương 3 |\phongkhach|Phòng Khách |\tv1|Tường Vi 1 |\mh1|Mộc Hương 1 |\mh2|Mộc Hương 2 |</value>
           <value id="Menu Category">trencao|Trên Cao |\beboi|Bể Bơi |\aoca|Ao Cá |\loivao|Lối Vào |\nhaco|Nhà Cổ |\khugiaitri|Khu Giải Trí |\mh4|Mộc Hương 4 |\mh3|Mộc Hương 3 |\phongkhach|Phòng Khách |\tv1|Tường Vi 1 |\mh1|Mộc Hương 1 |\mh2|Mộc Hương 2 |</value>
         </skintablesconfiguration>
         <skincolorsconfiguration>
