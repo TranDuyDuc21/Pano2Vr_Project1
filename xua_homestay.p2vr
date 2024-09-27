@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.4" rev="20938">
+<pano2vrconfig rev="20938" version="7.1.4">
   <tour>
     <panorama>
       <id>node1</id>
@@ -5585,6 +5585,7 @@ Phòng Ngủ MH2</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node41}</url>
+          <skinid>ht_fly</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -12628,6 +12629,7 @@ Phòng Ngủ MH2</title>
           <horizonfromdefview>1</horizonfromdefview>
           <nodedelay>20</nodedelay>
           <nodefilter>xuahm</nodefilter>
+          <noderandom>0</noderandom>
         </autorotate>
         <soundstransition/>
         <flyintransition>
