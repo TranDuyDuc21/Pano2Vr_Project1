@@ -47,7 +47,7 @@
         <longitude>105.499119</longitude>
         <altitude>54.71</altitude>
         <datetime>18/08/2023 2:56 CH</datetime>
-        <tags>1|2|banngay|trencao|xuahm</tags>
+        <tags>1|banngay|mc|trencao|xuahm</tags>
         <customprops/>
         <title>Trên Cao </title>
       </userdata>
@@ -303,8 +303,8 @@
           <videorect/>
           <type>audio</type>
           <id>_background</id>
-          <filename>C:/Users/admin/Downloads/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</filename>
-          <urlsafefilename>You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</urlsafefilename>
+          <filename>D:\test audio.MP3</filename>
+          <urlsafefilename>test audio.mp3</urlsafefilename>
           <mode>0</mode>
           <nodechangekeep>1</nodechangekeep>
           <locked>0</locked>
@@ -379,7 +379,7 @@
         <longitude>105.498853</longitude>
         <altitude>56.07</altitude>
         <datetime>18/08/2023 3:13 CH</datetime>
-        <tags>banngay|beboi|xuahm</tags>
+        <tags>banngay|beboi|mc|xuahm</tags>
         <title>Bể Trên Cao </title>
       </userdata>
       <floorplans/>
@@ -496,7 +496,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\1016.MP3</filename>
+          <urlsafefilename>1016.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node2</id>
     </panorama>
     <panorama>
@@ -555,7 +579,7 @@
         <longitude>105.498842</longitude>
         <altitude>57.98</altitude>
         <datetime>18/08/2023 3:20 CH</datetime>
-        <tags>3|banngay|beboi|beboiday|daubeboi|xuahm</tags>
+        <tags>3|banngay|beboi|beboiday|daubeboi|mc|xuahm</tags>
         <title>Đầu Bể </title>
       </userdata>
       <floorplans/>
@@ -646,7 +670,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\đầu bể .MP3</filename>
+          <urlsafefilename>u b .mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node3</id>
     </panorama>
     <panorama>
@@ -705,7 +753,7 @@
         <longitude>105.498872</longitude>
         <altitude>57.61</altitude>
         <datetime>18/08/2023 3:22 CH</datetime>
-        <tags>4|banngay|loivao|xuahm</tags>
+        <tags>4|banngay|loivao|mc|xuahm</tags>
         <title>Lối Vào Tường Vi </title>
       </userdata>
       <floorplans/>
@@ -877,7 +925,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\Lối vào tv .MP3</filename>
+          <urlsafefilename>Li v�o tv .mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node4</id>
     </panorama>
     <panorama>
@@ -937,7 +1009,7 @@
         <longitude>105.498947</longitude>
         <altitude>58.64</altitude>
         <datetime>18/08/2023 3:23 CH</datetime>
-        <tags>5|trungtamngay|xuahm</tags>
+        <tags>5|mc|trungtamngay|xuahm</tags>
         <title>Trung Tâm </title>
       </userdata>
       <floorplans/>
@@ -1082,7 +1154,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\trung tâm.MP3</filename>
+          <urlsafefilename>trung t�m.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node5</id>
     </panorama>
     <panorama>
@@ -1141,7 +1237,7 @@
         <longitude>105.499136</longitude>
         <altitude>57.32</altitude>
         <datetime>18/08/2023 3:24 CH</datetime>
-        <tags>6|loivaoday|xuahm</tags>
+        <tags>6|loivaoday|mc|xuahm</tags>
         <title>Lối Vào Homestay </title>
       </userdata>
       <floorplans/>
@@ -1259,7 +1355,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\lối vào hm.MP3</filename>
+          <urlsafefilename>li v�o hm.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node6</id>
     </panorama>
     <panorama>
@@ -1355,7 +1475,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\hm.MP3</filename>
+          <urlsafefilename>hm.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node7</id>
     </panorama>
     <panorama>
@@ -1414,7 +1558,7 @@
         <longitude>105.499183</longitude>
         <altitude>57.78</altitude>
         <datetime>18/08/2023 3:25 CH</datetime>
-        <tags>aoca|banngay|xuahm</tags>
+        <tags>aoca|banngay|mc|xuahm</tags>
         <title>Ao Cá </title>
       </userdata>
       <floorplans/>
@@ -1478,7 +1622,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\Ao cá.MP3</filename>
+          <urlsafefilename>Ao c�.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node8</id>
     </panorama>
     <panorama>
@@ -1537,7 +1705,7 @@
         <longitude>105.499581</longitude>
         <altitude>64.05</altitude>
         <datetime>18/08/2023 3:27 CH</datetime>
-        <tags>banngay|cong|xuahm</tags>
+        <tags>banngay|cong|mc|xuahm</tags>
         <title>Cổng Vào </title>
       </userdata>
       <floorplans/>
@@ -1574,7 +1742,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\Cổng Chính.MP3</filename>
+          <urlsafefilename>Cng Ch�nh.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node9</id>
     </panorama>
     <panorama>
@@ -1633,7 +1825,7 @@
         <longitude>105.498997</longitude>
         <altitude>66.78</altitude>
         <datetime>18/08/2023 4:39 CH</datetime>
-        <tags>10|khugiaitriday|xuahm</tags>
+        <tags>10|khugiaitriday|mc|xuahm</tags>
         <title>Khu Giải Trí </title>
       </userdata>
       <floorplans/>
@@ -1724,7 +1916,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\khu giải trí .MP3</filename>
+          <urlsafefilename>khu gii tr� .mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node10</id>
     </panorama>
     <panorama>
@@ -1783,7 +1999,7 @@
         <longitude>105.499092</longitude>
         <altitude>60.12</altitude>
         <datetime>18/08/2023 4:39 CH</datetime>
-        <tags>11|xuahm</tags>
+        <tags>11|mc|xuahm</tags>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1927,7 +2143,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\1016(1).MP3</filename>
+          <urlsafefilename>10161.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node11</id>
     </panorama>
     <panorama>
@@ -1987,7 +2227,7 @@
         <longitude>105.499064</longitude>
         <altitude>34.4</altitude>
         <datetime>18/08/2023 4:41 CH</datetime>
-        <tags>12|xuahm</tags>
+        <tags>12|mc|xuahm</tags>
         <title>Cửa Phòng Khách </title>
       </userdata>
       <floorplans/>
@@ -2078,7 +2318,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\cửa pk.MP3</filename>
+          <urlsafefilename>ca pk.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node12</id>
     </panorama>
     <panorama>
@@ -2137,7 +2401,7 @@
         <longitude>105.499347</longitude>
         <altitude>55.16</altitude>
         <datetime>18/08/2023 4:52 CH</datetime>
-        <tags>13|nhaco|xuahm</tags>
+        <tags>13|mc|nhaco|xuahm</tags>
         <title>Cổng Vào  Nhà Cổ </title>
       </userdata>
       <floorplans/>
@@ -2201,7 +2465,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\lv nhà cổ.MP3</filename>
+          <urlsafefilename>lv nh� c.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node13</id>
     </panorama>
     <panorama>
@@ -2261,7 +2549,7 @@
         <longitude>105.499333</longitude>
         <altitude>58.41</altitude>
         <datetime>18/08/2023 4:53 CH</datetime>
-        <tags>14|nhaco|xuahm</tags>
+        <tags>14|mc|nhaco|xuahm</tags>
         <title>Cửa Nhà Cổ </title>
       </userdata>
       <floorplans/>
@@ -2325,7 +2613,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\cửa nhà cổ.MP3</filename>
+          <urlsafefilename>ca nh� c.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node14</id>
     </panorama>
     <panorama>
@@ -2384,7 +2696,7 @@
         <longitude>105.499456</longitude>
         <altitude>58.89</altitude>
         <datetime>18/08/2023 4:54 CH</datetime>
-        <tags>15|nhaco|xuahm</tags>
+        <tags>15|mc|nhaco|xuahm</tags>
         <title>Sân Nhà Cổ </title>
       </userdata>
       <floorplans/>
@@ -2475,7 +2787,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\sân nc .MP3</filename>
+          <urlsafefilename>s�n nc .mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node15</id>
     </panorama>
     <panorama>
@@ -2534,7 +2870,7 @@
         <longitude>105.499514</longitude>
         <altitude>55.5</altitude>
         <datetime>18/08/2023 4:55 CH</datetime>
-        <tags>16|nhaco|xuahm</tags>
+        <tags>16|mc|nhaco|xuahm</tags>
         <title>Sân Trong Nhà Cổ </title>
       </userdata>
       <floorplans/>
@@ -2598,7 +2934,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\sân trong nc .MP3</filename>
+          <urlsafefilename>s�n trong nc .mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node16</id>
     </panorama>
     <panorama>
@@ -2657,7 +3017,7 @@
         <longitude>105.499572</longitude>
         <altitude>59.86</altitude>
         <datetime>18/08/2023 4:55 CH</datetime>
-        <tags>17|nhaco|xuahm</tags>
+        <tags>17|mc|nhaco|xuahm</tags>
         <title>Bếp Nhà Cổ </title>
       </userdata>
       <floorplans/>
@@ -2694,7 +3054,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\bếp nc .MP3</filename>
+          <urlsafefilename>bp nc .mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node17</id>
     </panorama>
     <panorama>
@@ -2816,7 +3200,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>C:/Users/admin/Downloads/violin-music-64019.mp3</filename>
+          <urlsafefilename>violin-music-64019-1.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node18</id>
     </panorama>
     <panorama>
@@ -2875,7 +3283,7 @@
         <longitude>105.499253</longitude>
         <altitude>67.85</altitude>
         <datetime>18/08/2023 7:49 CH</datetime>
-        <tags>banngay|phongkhach|xuahm</tags>
+        <tags>banngay|mc|phongkhach|xuahm</tags>
         <title>Bàn Ăn </title>
       </userdata>
       <floorplans/>
@@ -2966,7 +3374,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\bàn ăn.MP3</filename>
+          <urlsafefilename>b�n n.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node19</id>
     </panorama>
     <panorama>
@@ -3025,7 +3457,7 @@
         <longitude>105.499106</longitude>
         <altitude>44.59</altitude>
         <datetime>19/08/2023 11:05 SA</datetime>
-        <tags>20|mh4|xuahm</tags>
+        <tags>20|mc|mh4|xuahm</tags>
         <title>Phòng Ngủ MH4</title>
       </userdata>
       <floorplans/>
@@ -3116,7 +3548,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\MH4.MP3</filename>
+          <urlsafefilename>MH4.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node20</id>
     </panorama>
     <panorama>
@@ -3175,7 +3631,7 @@
         <longitude>105.499125</longitude>
         <altitude>51.28</altitude>
         <datetime>19/08/2023 11:05 SA</datetime>
-        <tags>21|banngay|dayandnight|mh4|xuahm</tags>
+        <tags>21|banngay|dayandnight|mc|mh4|xuahm</tags>
         <title>Phòng Tắm MH4</title>
       </userdata>
       <floorplans/>
@@ -3212,7 +3668,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\phòng tắm mh4.MP3</filename>
+          <urlsafefilename>ph�ng tm mh4.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node21</id>
     </panorama>
     <panorama>
@@ -3271,7 +3751,7 @@
         <longitude>105.499117</longitude>
         <altitude>50.96</altitude>
         <datetime>19/08/2023 11:06 SA</datetime>
-        <tags>22|mh4|xuahm</tags>
+        <tags>22|mc|mh4|xuahm</tags>
         <title>Hành Lang MH4</title>
       </userdata>
       <floorplans/>
@@ -3335,7 +3815,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\hl mh 4.MP3</filename>
+          <urlsafefilename>hl mh 4.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node22</id>
     </panorama>
     <panorama>
@@ -3394,7 +3898,7 @@
         <longitude>105.499047</longitude>
         <altitude>63.22</altitude>
         <datetime>19/08/2023 11:14 SA</datetime>
-        <tags>23|mh3|xuahm</tags>
+        <tags>23|mc|mh3|xuahm</tags>
         <title>Phòng Ngủ MH3 </title>
       </userdata>
       <floorplans/>
@@ -3458,7 +3962,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\Phòng ngủ mh3.MP3</filename>
+          <urlsafefilename>Ph�ng ng mh3.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node23</id>
     </panorama>
     <panorama>
@@ -3517,7 +4045,7 @@
         <longitude>105.499092</longitude>
         <altitude>43.24</altitude>
         <datetime>19/08/2023 11:15 SA</datetime>
-        <tags>24|mh3|xuahm</tags>
+        <tags>24|mc|mh3|xuahm</tags>
         <title>Bên Trong Mộc Hương 3 </title>
       </userdata>
       <floorplans/>
@@ -3581,7 +4109,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\bên trong mh3.MP3</filename>
+          <urlsafefilename>b�n trong mh3.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node24</id>
     </panorama>
     <panorama>
@@ -3640,7 +4192,7 @@
         <longitude>105.499036</longitude>
         <altitude>52.09</altitude>
         <datetime>19/08/2023 11:15 SA</datetime>
-        <tags>25|mh3|xuahm</tags>
+        <tags>25|mc|mh3|xuahm</tags>
         <title>Hành Lang MH3</title>
       </userdata>
       <floorplans/>
@@ -3677,7 +4229,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\Hành Lang MH3.MP3</filename>
+          <urlsafefilename>H�nh Lang MH3.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node25</id>
     </panorama>
     <panorama>
@@ -3736,7 +4312,7 @@
         <longitude>105.498869</longitude>
         <altitude>58.58</altitude>
         <datetime>19/08/2023 11:22 SA</datetime>
-        <tags>26|mh1|xuahm</tags>
+        <tags>26|mc|mh1|xuahm</tags>
         <title>Phòng Ngủ MH1</title>
       </userdata>
       <floorplans/>
@@ -3800,7 +4376,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\Phòng ngủ mh1.MP3</filename>
+          <urlsafefilename>Ph�ng ng mh1.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node26</id>
     </panorama>
     <panorama>
@@ -3859,7 +4459,7 @@
         <longitude>105.499092</longitude>
         <altitude>51.38</altitude>
         <datetime>19/08/2023 11:23 SA</datetime>
-        <tags>27|mh1|xuahm</tags>
+        <tags>27|mc|mh1|xuahm</tags>
         <title>Hành Lang MH1</title>
       </userdata>
       <floorplans/>
@@ -3923,7 +4523,31 @@
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>D:\Hành Lang Mh1.MP3</filename>
+          <urlsafefilename>H�nh Lang Mh1.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node27</id>
     </panorama>
     <panorama>
@@ -5872,7 +6496,31 @@ Phòng Ngủ MH2</title>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>C:/Users/admin/Downloads/violin-music-64019.mp3</filename>
+          <urlsafefilename>violin-music-64019.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node44</id>
     </panorama>
     <panorama>
@@ -5995,7 +6643,31 @@ Phòng Ngủ MH2</title>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>C:/Users/admin/Downloads/violin-music-64019.mp3</filename>
+          <urlsafefilename>violin-music-64019.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node45</id>
     </panorama>
     <panorama>
@@ -6118,7 +6790,31 @@ Phòng Ngủ MH2</title>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>C:/Users/admin/Downloads/violin-music-64019.mp3</filename>
+          <urlsafefilename>violin-music-64019.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node46</id>
     </panorama>
     <panorama>
@@ -6242,7 +6938,31 @@ Phòng Ngủ MH2</title>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-1</pan>
+            <tilt>-1</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>_background</id>
+          <filename>C:/Users/admin/Downloads/violin-music-64019.mp3</filename>
+          <urlsafefilename>violin-music-64019.mp3</urlsafefilename>
+          <mode>0</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node47</id>
     </panorama>
     <panorama>
@@ -12561,35 +13281,6 @@ Phòng Ngủ MH2</title>
       <translatepinnedmedia>1</translatepinnedmedia>
       <translationspath>translations</translationspath>
       <fovmode>diagonal</fovmode>
-      <backgroundsound>
-        <position>
-          <pan>-1</pan>
-          <tilt>-1</tilt>
-        </position>
-        <videorect/>
-        <type>audio</type>
-        <id>_background</id>
-        <filename>C:\Users\admin\Downloads\You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</filename>
-        <urlsafefilename>You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</urlsafefilename>
-        <mode>0</mode>
-        <nodechangekeep>1</nodechangekeep>
-        <locked>0</locked>
-        <pansize>10</pansize>
-        <tiltsize>10</tiltsize>
-        <fieldsize>90</fieldsize>
-        <ambientlevel>0</ambientlevel>
-        <startmutedmobile>0</startmutedmobile>
-        <level>1</level>
-        <loop>1</loop>
-        <copyfile>1</copyfile>
-        <permeable>0</permeable>
-        <altfile>
-          <filename>C:\Users\admin\Downloads\You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</filename>
-        </altfile>
-        <urlsafealtfile>
-          <filename>You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3</filename>
-        </urlsafealtfile>
-      </backgroundsound>
       <translationsavailable>
         <value id="Project">vi-VN</value>
       </translationsavailable>
@@ -12651,7 +13342,6 @@ Phòng Ngủ MH2</title>
         </skinconfiguration>
         <skintablesconfiguration>
           <value id="Categories">trencao|Trên Cao |\beboi|Bể Bơi |\aoca|Ao Cá |\loivao|Lối Vào |\nhaco|Nhà Cổ |\khugiaitri|Khu Giải Trí |\mh4|Mộc Hương 4 |\mh3|Mộc Hương 3 |\phongkhach|Phòng Khách |\tv1|Tường Vi 1 |\mh1|Mộc Hương 1 |\mh2|Mộc Hương 2 |</value>
-          <value id="Menu Category">trencao|Trên Cao |\beboi|Bể Bơi |\aoca|Ao Cá |\loivao|Lối Vào |\nhaco|Nhà Cổ |\khugiaitri|Khu Giải Trí |\mh4|Mộc Hương 4 |\mh3|Mộc Hương 3 |\phongkhach|Phòng Khách |\tv1|Tường Vi 1 |\mh1|Mộc Hương 1 |\mh2|Mộc Hương 2 |</value>
         </skintablesconfiguration>
         <skincolorsconfiguration>
           <value id="Accent Color">4283413954</value>
