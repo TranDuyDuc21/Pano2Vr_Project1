@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="20938" version="7.1.4">
+<pano2vrconfig version="7.1.4" rev="20938">
   <tour>
     <panorama>
       <id>node1</id>
@@ -316,6 +316,12 @@
           <level>1</level>
           <loop>1</loop>
           <copyfile>1</copyfile>
+          <altfile>
+            <filename>D:\test audio.MP3</filename>
+          </altfile>
+          <urlsafealtfile>
+            <filename>test audio.mp3</filename>
+          </urlsafealtfile>
           <permeable>0</permeable>
         </sound>
       </sounds>
@@ -518,6 +524,12 @@
           <level>1</level>
           <loop>1</loop>
           <copyfile>1</copyfile>
+          <altfile>
+            <filename>D:\1016.MP3</filename>
+          </altfile>
+          <urlsafealtfile>
+            <filename>1016.mp3</filename>
+          </urlsafealtfile>
           <permeable>0</permeable>
         </sound>
       </sounds>
